@@ -1,0 +1,14 @@
+## Asset Management
+The Asset Management can be carried out by the Holding or can be outsourced to experienced asset managers. In case of outsourcing, the supervision of the Asset Management rests with the CIO and as soon as practicable shall be handled by a dedicated Head of Asset Management. 
+
+The Asset Manager must focus on hands-on management on site, in cooperation with the Property Managers. The Asset Manager is not an office person to write fancy reports, but a sparring partner to the Property Manager, the actual leasing and marketing manager (with the support of the Property Manager) and the strategic manager for the property (including CAPEX planning).
+
+The Asset Manager shall spend at least 2 days per month on site in the respective property, together with the Property Manager (and the facility management, too) and must have full knowledge of all operational details of the building and the ongoing events. He or she must be ready to travel a lot and must be diligent but motivated to decide. An Asset Manager shall be responsible for 5 to 8 properties, depending on size and regional distribution. A regional concentration of responsibilities is preferred, so that the Asset Manager can build up strong local market knowledge. 
+
+The Asset Manager is the main representative of the owner in all aspects of the property, including leasing, marketing, investments (with the help of external project management, if needed) etc. The Property Management however shall always be outsourced to professional, highly reputable and internationally active property managers.
+
+The selection of the Property Manager shall be decided market by market solely on the criteria of quality. A good Property Manager in one market might not be good in another market. As the Asset Manager is the supervisor of the Property Manager, the Asset Manager shall be able to choose the Property Manager and his or her bonus shall also depend on the performance of the Property Manager. 
+
+The Property Management must focus on a sustainable management of each property. This means a truly personal care and supervision of the building and its tenants. For a property with 20 to 30 tenants and 20.000 to 30.000 m² of rentable space, one dedicated employee of the Property Manager shall be employed. Split responsibilities shall be avoided. The Property Manager shall focus on the long-term satisfaction of the tenants and minimize the fluctuation of tenants, to reduce the total operational cost of a property (including investments in fit-out or fit-out contributions, costs of vacancy, expenses for releasing, etc.). The effective cash flow in each year is more important than short term maximization of the property market value. Both the Asset Manager and Property Manager shall also try to keep the expenses for leasing brokerage fees low by conducting all renewals of lease without the assistance of real estate agents.
+
+[Next](/asset/real/governance.md)
