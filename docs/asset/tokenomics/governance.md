@@ -7,3 +7,5 @@ Redcurry governance falls into two broad jurisdictions:
 At the initial phase of Redcurry, Currinomics Foundation bylaws are developed and set by the founding team and made public. These bylaws cannot be changed. The founding team then appoints the Foundation board who will in turn appoint the Redcurry Holding board members. Everyone involved including the founding team will be governed by the the bylaws of the Foundation. 
 
 In the next phase, after Redcurry has achieved critical adoption requirements, a plan to develop a governance token. Governance token allows the holder to propose and vote for treasury protocol decisions. Governance token may also be used as collateral of the Redcurry token. These and any other future governance and DAO decisions are to be made at later stages. 
+
+[Next](./liquidity.md)

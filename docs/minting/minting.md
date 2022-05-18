@@ -3,13 +3,6 @@ The Redcurry token REDC is created in a joint process of the holding company and
 
 During a turbulent market conditions where REDC prive raises above NAV, the Redcurry mintery is opened and new REDC may be minted at NAV enabling arbitrage opportunity for the market participant. Read more about Price Stability.
 
-In other words REDC minting is triggered by one of the following two conditions: 
-
-When the market distribution partners have show demand and REDC treasury has room to grow i.e hasn’t exceeded its treasury cash limit. First we will mint the tokens into our treasury. From where the distribution partners can buy it. When the treasury high threshold (which at the beginning is managed by the holding company) is reached then the real estate invesmtnets are realized.
-When our treasury threshold has room and there are new acquiring processes happening on the fund side. When the buying process is successfully finished, we will fill our own treasury with the new minted tokens.
-When REDC price raises above NAV and mintery is opened. REDC is then purchased from the mintery at the portfolio’s net asset value. 
-
-
 Any minting of a new REDCURRY token is triggered by a Euro or Euro stablecoun payment to the Holding. As the minting of new REDC tokens can only occur at the current NAV.
 
 

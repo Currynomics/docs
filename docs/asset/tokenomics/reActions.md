@@ -13,3 +13,5 @@ There are plenty of other events which can occur as well. For example, the Holdi
 
 ### Sale of Real Estate
 In principle the sale of real estate should have no impact on the NAV, similarly to the acquisition of real estate described above. However, it has to be assumed that the sale of real estate will not happen exactly at the last recorded asset value in the Holding, but at a transaction price more or less different from such asset value. The target of the management of the Holding will of course always be to achieve a transaction price higher than the last recorded asset value.
+
+[Next](./meta.md)

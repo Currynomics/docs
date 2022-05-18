@@ -15,7 +15,7 @@ The treasury size is gapped at 10% of the total NAV until the AUM grows over 10M
 Pipelined real estate investment opportunity is realized. New token generation even is organized by Redcurry following minting and sales of REDC. The consecutive cash received is invested into real estate. That which is not immediately invested, will remain in treasury and considered as part of the NAV. 
 
 ## Treasury acconts
-Treasury will be managed by the holding company in one or many international bank and smart contract accounts. These accounts are audited by the Currinomics Foundation. 
+Treasury will be managed by the holding company in one or many international bank accounts. All treasury activities including the accounts and SPVs are audited by independent external auditing firms while the everyday activity is overseen by the Currinomics Foundation. 
 
 ## Valuation of the real estate assets in the portfolio
 An established committe of highly experienced real estate evaluators will conduct the yearly review of the value of the real estate under management. The reason for an annual period lays in the fact that high quality CRE value is not so volatile, accurately evaluating property is not a simple process and that a constant increase the NAV by property reevaluation is not a goal in itself. After analysing these factors and taking into account the welcomed appreciation of token value by the holders of the token, we have concluded that the most optimal period for property under management valuation is one year. This, as other treasury related matters is subject to review according to the governence structures. 
