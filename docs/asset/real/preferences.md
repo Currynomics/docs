@@ -5,7 +5,6 @@
 * ESG is important, however not an excuse for neglecting other quality criteria of a property
 * Investment focus on Europe, especially on well-performing markets, which are strategically interesting in the long run, and not on hyped markets with a clear downturn risk. “We don’t have to be where the party is.”
 * Balanced regional risk spread with clear focus on CEE and Tier-2-cities. Cash-Flow and stability of the market have preference over “fame”. 
-* Strategically only „Core“ or „Core plus“ properties, no “Value add” or Developments.
 
 The management of the Holding will initially be provided by the Management Company (also the initial IP holder and seed investment facilitation body) but shall – as soon as financially meaningful and practical – be built up within the holding company. The functions of the Holding are: 
 

@@ -1,9 +1,9 @@
 # Minting
-The Redcurry token REDC is created in a joint process of the holding company and the financial distribution partners during token generation events (TGEs). Any REDC newly minted is acquired by the market making partner by transferring the corresponding amount of EUR cash to the Holding treasury. Read more about Structure. 
+The RedCurry token RedCurry Token is created in a joint process of the holding company and the financial distribution partners during token generation events (TGEs). Any RedCurry Token newly minted is acquired by the market making partner by transferring the corresponding amount of EUR cash to the Holding treasury. Read more about Structure. 
 
-During a turbulent market conditions where REDC prive raises above NAV, the Redcurry mintery is opened and new REDC may be minted at NAV enabling arbitrage opportunity for the market participant. Read more about Price Stability.
+During a turbulent market conditions where RedCurry Token prive raises above NAV, the RedCurry mintery is opened and new RedCurry Token may be minted at NAV enabling arbitrage opportunity for the market participant. Read more about Price Stability.
 
-Any minting of a new REDCURRY token is triggered by a Euro or Euro stablecoun payment to the Holding. As the minting of new REDC tokens can only occur at the current NAV.
+Any minting of a new RedCurry token is triggered by a Euro or Euro stablecoun payment to the Holding. As the minting of new RedCurry Token tokens can only occur at the current NAV.
 
 
 **The following is an example of potential state change and its effect on the tokenomics.**  

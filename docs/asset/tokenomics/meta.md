@@ -1,4 +1,4 @@
-## REDC Metadata
+## RedCurry Token Metadata
 Utility / Function
 Payment
 No redemption rights / no property claim rights

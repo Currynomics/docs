@@ -26,7 +26,7 @@
 ** * [Incentivisation Schemes](/asset/real/incentivisation.md)
 
 * [TOKENOMICS](/asset/tokenomics/tokenomics.md)
-** [REDC vs Other Financial Instruments](/asset/tokenomics/tokenomics.md)
+** [RedCurry Token vs Other Financial Instruments](/asset/tokenomics/tokenomics.md)
 ** [Taxation](/asset/tokenomics/taxation.md)
 ** [Price](/asset/tokenomics/token.md)
 ** [Distribution](/asset/tokenomics/distribution.md)
@@ -34,7 +34,7 @@
 ** [Governance](/asset/tokenomics/governance.md)
 ** [Liquidity](/asset/tokenomics/liquidity.md)
 ** [RE Actions](/asset/tokenomics/reActions.md)
-** [REDC Metadata](/asset/tokenomics/meta.md)
+** [RedCurry Token Metadata](/asset/tokenomics/meta.md)
 
 * [LEGAL STRUCTURE](/asset/legal/overview.md)
 ** [Overview](/asset/legal/overview.md)
