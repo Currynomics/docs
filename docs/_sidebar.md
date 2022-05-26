@@ -40,3 +40,6 @@
 ** [Overview](/asset/legal/overview.md)
 ** [The Foundation](/asset/legal/foundation.md)
 ** [The Holding](/asset/legal/holding.md)
+
+* CONTACT US
+contact@redcurry.co

@@ -10,3 +10,5 @@ Release
 Initial public offering
 Initial value
 
+[Next](/asset/legal/overview.md)
+
