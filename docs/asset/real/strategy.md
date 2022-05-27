@@ -9,4 +9,4 @@ Similarly, the spreading of risk, both over regions and industries, will support
 
 The long-term focus of the real estate investments in RedCurry Holding will also bring about that the choice of properties will not necessarily be comparable with that of some other real estate market participants like real estate funds. RedCurry Holding will not need to invest in so-called “trophy assets”, which might be positive for the reputation of the purchaser but might in the long run have downside risks in the income stream. RedCurry Holding will also be ready to invest in secondary cities, which are experiencing strong economic growth but might not yet be a large submarket for transactions. And RedCurry Holding will not invest in buildings that require in the near future a major refurbishment or market repositioning, as this would bring volatility to the Net Asset Value. 
 
-[Next](/asset/real/transactions.md)
+[Next (RE Transactions)](/asset/real/transactions.md)

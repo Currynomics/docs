@@ -17,4 +17,4 @@ Pipelined real estate investment opportunity is realized. New token generation e
 ## Treasury accounts
 Treasury will be managed by the holding company in one or many international bank accounts. All treasury activities including the accounts and SPVs are audited by independent external auditing firms while the everyday activity is overseen by the Currinomics Foundation. 
 
-[Next](/asset/real/real.md)
+[Next (RE Management)](/asset/real/real.md)

@@ -10,4 +10,4 @@ The Holding is the legal entity issuing the RedCurry Token token. By the sale of
 
 
 <!-- [Next](whitepaper/price.md) -->
-[Next](minting/minting.md)
+[Next (Security)](whitepaper/security.md)

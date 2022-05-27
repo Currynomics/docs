@@ -5,4 +5,4 @@ During turbulent market conditions when RedCurry Token price falls under the NAV
 
 The redemption of the RedCurry Token is followed by the burning of the token and is the reverse process of minting it. In other words, this means buying them back from the market at NAV and destroying them. This event will stabilize the market price when there is decreasing demand and price drops.
 
-[Next](/asset/treasury/treasury.md)
+[Next (Treasury)](/asset/treasury/treasury.md)

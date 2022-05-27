@@ -5,4 +5,4 @@ As a result of this, RedCurry becomes an interesting tool for professional and/o
 
 An alternative solution for such investors would be to use RedCurry as a transaction currency. RedCurry is beneficial for both sides of the real estate transaction. The seller has a benefit of receiving RedCurry at a purchase price and will avoid immediate negative interest and has the prospect of appreciation of the value of RedCurry. On the buyer side, holding RedCurry enables the investor to take his time in choosing the right property to invest, as he is not under pressure from negative interest rates. For both parties, RedCurry facilitates a real-time peer-to-peer transaction without the necessity to involve escrow bank accounts or other complicated and time-consuming procedures, adding additional simplification to the real estate investment activities.
 
-[Next](/asset/real/portfolio.md)
+[Next (RE Portfolio)](/asset/real/portfolio.md)

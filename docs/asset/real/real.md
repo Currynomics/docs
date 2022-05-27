@@ -20,4 +20,4 @@ An important feature of the RedCurry system is that the value of RedCurry can ne
 
 As seen above, NAV will consist of three parts: Value of real estate assets, cash, and receivables - Liabilities. The first part of a NAV “Value of a real estate assets” will be reevaluated by the committee annually. This part is the locked and fixed part of a NAV. Cash and receivables and liabilities might change often and this will be reevaluated once per day and will be transparently automated in the future.
 
-[Next](/asset/real/strategy.md)
+[Next (Strategy)](/asset/real/strategy.md)

@@ -3,4 +3,4 @@ The transaction management is carried out by the CIO. He has the responsibility 
 
 The transaction management is supervised by the CEO, who is co-signing main transaction documents with the CIO. 
 
-[Next](/asset/real/assetManagement.md)
+[Next (Assets)](/asset/real/assetManagement.md)

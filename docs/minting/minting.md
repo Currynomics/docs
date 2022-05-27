@@ -32,4 +32,4 @@ Token price: €1,04
  
 Since the treasury in now unbalanced toward cash & receivables, the Holding will, following treasury management rules, start the acquisition of real estate.
 
-[Next](minting/distribution.md)
+[Next (Distribution)](minting/distribution.md)

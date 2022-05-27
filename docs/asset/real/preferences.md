@@ -20,4 +20,4 @@ The budgeting process will be bottom-up: Asset Manager and Property Manager prep
 
 The organization of the whole group shall be very lean, especially concerning office management, personal assistants, and alike.
 
-[Next](/asset/real/committee.md)
+[Next (Committee)](/asset/real/committee.md)

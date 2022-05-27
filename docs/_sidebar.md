@@ -1,17 +1,18 @@
 <!-- docs/_sidebar.md -->
 
 * [ABOUT](/)
-* [WHITEPAPER](/whitepaper/intro.md)
+* WHITEPAPER
 ** [Introduction](/whitepaper/intro.md)
 ** [How it works](/whitepaper/how.md)
+** [Security](/whitepaper/security.md)
 <!-- ** [Price stability](/whitepaper/price.md) -->
 
-* [MINTING & REDEMPTION](/minting/minting.md)
+* MINTING & REDEMPTION
 ** [Minting](/minting/minting.md)
 ** [Token distribution](/minting/distribution.md)
 ** [Redemption](/minting/redemption.md)
 
-* [ASSET MANAGEMENT](/asset/treasury/treasury.md)
+* ASSET MANAGEMENT
 ** [Treasury Management](/asset/treasury/treasury.md)
 ** [Real Estate Management](/asset/real/real.md)
 ** * [Net Asset Value](/asset/real/real.md)
@@ -25,8 +26,8 @@
 ** * [Corporate Governance](/asset/real/governance.md)
 ** * [Incentivisation Schemes](/asset/real/incentivisation.md)
 
-* [TOKENOMICS](/asset/tokenomics/tokenomics.md)
-** [RedCurry Token vs Other Financial Instruments](/asset/tokenomics/tokenomics.md)
+* TOKENOMICS
+** [RedCurry vs Other Instruments](/asset/tokenomics/tokenomics.md)
 ** [Taxation](/asset/tokenomics/taxation.md)
 ** [Price](/asset/tokenomics/token.md)
 ** [Distribution](/asset/tokenomics/distribution.md)
@@ -36,10 +37,14 @@
 ** [RE Actions](/asset/tokenomics/reActions.md)
 ** [RedCurry Token Metadata](/asset/tokenomics/meta.md)
 
-* [LEGAL STRUCTURE](/asset/legal/overview.md)
+
+* LEGAL STRUCTURE
 ** [Overview](/asset/legal/overview.md)
 ** [The Foundation](/asset/legal/foundation.md)
 ** [The Holding](/asset/legal/holding.md)
 
 * CONTACT US
 contact@redcurry.co
+
+
+

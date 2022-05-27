@@ -11,4 +11,4 @@ The selection of the Property Manager shall be decided market by market solely o
 
 Property Management must focus on the sustainable management of each property. This means truly personal care and supervision of the building and its tenants. For a property with 20 to 30 tenants and 20.000 to 30.000 m² of rentable space, one dedicated employee of the Property Manager shall be employed. Split responsibilities shall be avoided. The Property Manager shall focus on the long-term satisfaction of the tenants and minimize the fluctuation of tenants, to reduce the total operational cost of a property (including investments in fit-out or fit-out contributions, costs of vacancy, expenses for releasing, etc.). The effective cash flow in each year is more important than the short-term maximization of the property market value. Both the Asset Manager and Property Manager shall also try to keep the expenses for leasing brokerage fees low by conducting all renewals of the lease without the assistance of real estate agents.
 
-[Next](/asset/real/governance.md)
+[Next (Governance)](/asset/real/governance.md)

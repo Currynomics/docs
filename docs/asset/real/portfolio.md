@@ -15,4 +15,4 @@ Real estate will be acquired by asset deals or share deals. As the intention is 
 
 To avoid lump risks, properties acquired will not be too big concerning the total real estate portfolio. The aim should be that once the portfolio size reaches 500M Euro or more, a single property (but not necessarily a single transaction) shall constitute not more than 10% of the total portfolio value. Balancing of risks over properties, markets and regions shall be ensured.
 
-[Next](/asset/real/preferences.md)
+[Next (RE Preferences)](/asset/real/preferences.md)

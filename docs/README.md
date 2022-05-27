@@ -11,7 +11,7 @@ RedCurry is a *new asset class* with the following properties:
 <!-- With RedCurry you trade the redemption right against the higher return. Similar to the savings book concept: you waive your right to claim the deposit for a certain period (years) against a higher return. In the case of RedCurry, you are waiving your right to claim the deposit possibly forever, and in exchange, you get a voluntary offer for redemption (the treasury) and the full transferability of the savings book itself. Why bother to draw down money from your savings book, if you can pay with the savings book itself? -->
 
 
-**RedCurry vs other asset classes**
+## RedCurry vs other asset classes
 
 Unlike tokenized real estate, the holder of RedCurry has no rights associated with the property backing the currency.
 
@@ -23,7 +23,7 @@ All decision-making is governed by a secure, highly transparent, and not-for-pro
 
 This governance mechanism enforces, among other things, constant publishing of NAV and all related data. All operational aspects are audited and verifiable, and permanently available - RedCurry token value can be verified by any holder at any time.
 
-**Protocol**
+## Protocol
 
 As the energy frequency in trading real estate (low) and crypto (fast) are disparate, we have designed the token to be fractionally backed by 90% (min) of commercial real estate and 10% (max) Euro cash in the treasury. The cash part of the collateral is intended solely for investments into real estate or for the buybacks of RedCurry tokens. Treasury management is governed by the foundation laws.  
 
@@ -35,9 +35,9 @@ As the management of real estate itself naturally requires a centralized approac
 <!-- RedCurry is poised to evolve, at least partially, into a decentralized anonymous organization (DAO) where the governance token is used for treasury (not necessarily specific real estate) decision making and possibly for collateral (read about FRAX’s fractional stablecoin and how they successfully use governance tokens as collateral to achieve value stability).  -->
 
 <!-- Telegram: [INSERT]   -->
-Website: [redcurry.co](www.redcurry.co)    
-Telegram (announcements): [Join] (https://t.me/redcurryupdates)  
-Discord: [Join](https://discord.gg/z8kgCvxtea)  
+Website: <a href="https://redcurry.co" target="_blank">redcurry.co</a>   
+Telegram (announcements): <a href="https://t.me/redcurryupdates" target="_blank">JOIN</a>  
+Discord: <a href="https://discord.gg/z8kgCvxtea" target="_blank">JOIN</a>    
 Twitter: [to be published]  
 Blog: [to be published]  
 Foundation: [to be published]  
