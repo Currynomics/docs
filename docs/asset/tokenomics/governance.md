@@ -6,6 +6,6 @@ RedCurry governance falls into two broad jurisdictions:
 
 At the initial phase of RedCurry, Currinomics Foundation bylaws are developed and set by the founding team and made public. These bylaws cannot be changed. The founding team then appoints the Foundation board who will in turn appoint the RedCurry Holding board members. Everyone involved including the founding team will be governed by the the bylaws of the Foundation. 
 
-In the next phase, after RedCurry has achieved critical adoption requirements, a plan to develop a governance token. Governance token allows the holder to propose and vote for treasury protocol decisions. Governance token may also be used as collateral of the RedCurry token. These and any other future governance and DAO decisions are to be made at later stages. 
+The Currinomics Foundation can become a legal wrapped for the Currinomics DAO if a DAO strategy is pursued. In this case, a governance token could be used for voting on matters related to treasury and choosing representatives. Specific real estate and investment decisions will be left to the specialists in that field.
 
 [Next](./liquidity.md)

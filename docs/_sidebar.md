@@ -35,7 +35,7 @@
 ** [Governance](/asset/tokenomics/governance.md)
 ** [Liquidity](/asset/tokenomics/liquidity.md)
 ** [RE Actions](/asset/tokenomics/reActions.md)
-** [RedCurry Token Metadata](/asset/tokenomics/meta.md)
+** [Token Metadata](/asset/tokenomics/meta.md)
 
 
 * LEGAL STRUCTURE
