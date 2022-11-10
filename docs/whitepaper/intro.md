@@ -1,20 +1,13 @@
 # Introduction
-Holding liquidity has a price. However, switching to other asset classes like securities for obtaining reasonable returns either exposes the investor to high volatility or requires a long-hold investment approach, thwarting the original intention of holding liquidity. There are three main perspectives on this problem:
+Today's money is fiat money. It is not backed by any commodity, nor does it have any intrinsic value. It has value because it is typically declared by governments to be legal tender and the people who use it agree on its value. But as fiat money is not backed by anything, the supply of such money is in principle unlimited. Oversupply of money typically leads to inflation, or in extreme cases to hyperinflation. And while the task of national banks issuing fiat money is typically also to fight inflation, we see that political interests might compel a national bank to abandon its inflation containment goal to a lesser or larger extent.
+ 
+Inflation is destroying one of the main functions of money: a store of value. This is the reason why some, like the Austrian School of Economics, represented by Nobel Memorial Prize in Economics laureate Friedrich August von Hayek, and others, challenge the concept of inflation as a monetary policy instrument. In 1943, von Hayek suggested a commodity reserve currency based on a basket of various commodities, as an alternative to the gold standard.
+ 
+The question, of whether on the level of national economies a certain loss of value caused by tolerated inflation is acceptable, might be answered in different ways, and the academic debate will continue. However, on the level of the individual, it is obvious that the store of value is of prime importance. The aftermath of the 2008 financial crisis, and increasing government deficits, have led to an expansionary monetary policy with extremely low-interest rates and a substantial risk of high inflation. In such an environment, the store of value has gained even greater importance.
+ 
+The challenges of the modern global economy and the temptation (or need) for politics to sacrifice the value preservation of money and to utilize monetary policy for various other goals, call for new solutions; the last two decades have shown tremendous new possibilities with the advance of digital technology, specifically with the adoption of blockchain applications.
+ 
+However, even though Bitcoin is the prototype digital currency, it hasn’t served us as a currency in its original meaning: only very few commercial transactions are paid for in Bitcoin. It has mostly served as a speculative investment, and as a tool for the anonymous transfer of funds. The speculative investment character has led to a situation where prices for goods expressed in Bitcoin are extremely volatile. So we would need something more stable!
 
-* The conventional money inflation rate is higher than ever therefore there is a need to find a more stable underlying currency.
-* The real estate sector has very low liquidity. Investors have to wait long and they cannot liquidate their investment very easily.
-* The cryptocurrency sector is very volatile and there isn’t a good option to park your capital in a stable asset.
 
-RedCurry solves the above problems by bringing transparent and secure collateralized stability into the volatile cryptocurrency market while commoditizing the illiquid real estate market. By being backed by a stable quality real estate, RedCurry will achieve the following objectives:
-
-* Continuous increase in value (denominated in EUR)
-* Very low volatility
-* High transparency and security
-* Token-based approach provides liquidity on market.
-
-This makes RedCurry a great store of wealth, addressing the challenges of the economies and markets - near-zero interest rates, inflationary dynamics, purchasing power, or volatility of other asset classes. The solution consists of two sides:
-
-* Managing the sustainable and high-quality commercial real estate fund which is designed with stability in mind instead of focusing on high rental yields. While keeping in mind that healthy yield is a sign of quality. Yield is reinvested back into the portfolio increasing the face value of RedCurry Token. [Learn more](/asset/real/real.md)
-* Managing the treasury and market-making together with our financial distribution partners in a way that the demand and supply, and therefore market price, closely transports the portfolio's NAV. [Learn more](/asset/treasury/treasury.md)
-
-[Next (How it works)](whitepaper/how.md)
+[Next: How it works](whitepaper/how.md)

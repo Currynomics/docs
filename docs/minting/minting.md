@@ -1,35 +1,10 @@
 # Minting
-The RedCurry token RedCurry Token is created in a joint process of the holding company and the financial distribution partners during token generation events (TGEs). Any RedCurry Token newly minted is acquired by the market making partner by transferring the corresponding amount of EUR cash to the Holding treasury. Read more about Structure. 
-
-During a turbulent market conditions where RedCurry Token prive raises above NAV, the RedCurry mintery is opened and new RedCurry Token may be minted at NAV enabling arbitrage opportunity for the market participant. Read more about Price Stability.
-
-Any minting of a new RedCurry token is triggered by a Euro or Euro stablecoun payment to the Holding. As the minting of new RedCurry Token tokens can only occur at the current NAV.
-
-
-**The following is an example of potential state change and its effect on the tokenomics.**  
-Tokens in criculation: 2 000 000  
-NAV (assets in holding):  
-* Real Estate: € 2 000 000  
-* Cash & receivables: € 80 000  
-* Total: € 2 080 000  
-
-Token price: €1,04
-
- +
-
-New tokens minted: 1 000 000  
-Incoming cash: € 1 040 000
-
-=
-
-Tokens in criculation: 3 000 000  
-NAV (assets in holding)  
-* Real Estate: € 2 000 000
-* Cash & receivables: € 1 120 000
-* Total: € 3 120 000  
-
-Token price: €1,04
+The Redcurry token (REDC) is created in a joint process of the holding company and the financial distribution partners during token generation events (TGEs). Any REDC newly minted is acquired by the market-making partner by transferring the corresponding amount of EUR cash to the Holding treasury. Read more about Structure. The Treasury is designed to then invest the cash received into appropriate real estate projects (direct investments, RE funds, etc.), all following the strict process of the Currinomics Foundation.
  
-Since the treasury in now unbalanced toward cash & receivables, the Holding will, following treasury management rules, start the acquisition of real estate.
+During turbulent market conditions where REDC price rises above NAV, the Redcurry mint is opened and new REDC may be minted solely at NAV, enabling arbitrage opportunities for the market participant.
+ 
+Any minting of a new Redcurry token is triggered by a Euro or Euro stablecoin payment to the Holding. As the minting of new REDC can only occur at the current NAV.
+ 
+The fundamental concept behind Redcurry is to create a currency (or means of payment), which is appreciating, and without making a security. To disqualify as a security, the Redcurry token cannot provide Redcurry token holders with any rights to the assets backing its value. The REDC token only carries the underlying Real Estate portfolio’s NAV (Net Asset Value). This also creates the face value of the token. From that comes the store of value property which is a crucial prerequisite for any hard money and means of payment.
 
-[Next (Distribution)](minting/distribution.md)
+[Next: Distribution](minting/distribution.md)

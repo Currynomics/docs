@@ -1,7 +1,0 @@
-## Taxation
-
-A very important aspect in the structuring of the Holding is the Token minting. The tokens minted by the Holding do not represent liabilities of the company (neither equity nor amounts owed). Rather, the sale of the token is a revenue of the Holding and no cost is associated with the generation of the token thus the profit is equal to the revenue. The Holding is not allowed to distribute this profit as it is obliged to first invest in real estate. Ultimately it can also be used for burning the minted tokens. 
-
-The fact that RedCurry Holding is domiciled in Estonia does however not have any effect on the taxation of the subsidiaries of RedCurry Holding, which are owning the actual property. These subsidiaries will of course be subject to the national taxation regime applicable in the respective country where these companies are domiciled. However, as RedCurry Holding is only entitled to invest in EU countries, it means that all legal entities within the RedCurry system will be domiciled in the EU and therefore no complex taxation matters will need to be considered at the time being.
-
-[Next](/asset/tokenomics/token.md)
