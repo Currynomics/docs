@@ -23,8 +23,8 @@
 ** [RE impact on value](/asset/tokenomics/reActions.md)
 
 * CURRYNOMICS DAO
-** [DAO Token](/asset/dao/dao.md)
-** [DAO Revenue & Treausry](/asset/dao/daoRevenue.md)
+** [About](/asset/dao/dao.md)
+** [Economics](/asset/dao/daoRevenue.md)
 
 * TECHNOLOGY
 ** [Overview](/asset/technology/technology.md)
@@ -36,9 +36,11 @@
 ** [Legal Aspects](/asset/legal/aspects.md)
 ** [Legal Disclaimers](/asset/legal/disclaimers.md)
 
-* CONTACT
-[Website](https://redcurry.co)
-contact@redcurry.co
+* OTHER
+** [Currynomics Principles](https://redcurry.co/manifesto)
+** [Website](https://redcurry.co)
+** [Partnerships](https://redcurry.co/partners)
+** [Linktree](https://linktr.ee/redcurry)
 
 
 

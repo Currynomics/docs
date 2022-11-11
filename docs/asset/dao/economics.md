@@ -1,4 +1,12 @@
-# DAO Revenue & Treasury
+# DAO Economics
+## DAO Token Distribution
+Distribution first begins with two rounds of private sales, and then continues with the public sale through the distribution partners. According to our current relevant financial plan, our private sale round cap is 5 000 000€.
+
+![image](../../media/img/curry_distribution.png)
+
+
+![image](../../media/img/curry_allocation.png)
+
 ## Revenue
 There are many sources of fees in the infrastructure. These fees are important to guarantee protocol sustainability. Part of the fees are routed through a contract that first exchanges the fees for the governance token. These tokens are then split between the DAO Main Treasury and Operational Budget Treasury based on a parameter set by the DAO Governance.
 

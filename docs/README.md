@@ -16,14 +16,13 @@ With Redcurry we are opening the first chapter of a truly inspiring book. Redcur
 
 
 <!-- Telegram: [INSERT]   -->
-Website: <a href="https://redcurry.co" target="_blank">redcurry.co</a>   
-Telegram (announcements): <a href="https://t.me/redcurryupdates" target="_blank">JOIN</a>  
+<!-- Telegram (announcements): <a href="https://t.me/redcurryupdates" target="_blank">JOIN</a>   -->
+Website: <a href="https://redcurry.co" target="_blank">VISIT</a>   
 Discord: <a href="https://discord.gg/z8kgCvxtea" target="_blank">JOIN</a>    
 LinkedIn: <a href="https://www.linkedin.com/company/86164816" target="_blank">VISIT</a>    
-Twitter: [to be published]  
-Currynomics Principles: [to be published]  
-Foundation deed: [to be published]  
-Holding: [to be published]  
+Currynomics Manifesto: <a href="https://redcurry.co/manifesto" target="_blank">READ</a>     
+<!-- Twitter: [to be published]   -->
+<!-- Foundation deed: [to be published]   -->
 <!-- Governance (discussion):[INSERT]  
 Governance (voting): tbd -->
 

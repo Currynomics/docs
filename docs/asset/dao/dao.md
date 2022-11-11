@@ -1,4 +1,4 @@
-# DAO Token
+# About
 The Currynomics DAO (Decentralised Autonomous Organisation) is meant to catalyse and coordinate the open-source infrastructure and ecosystem of partners, builders, and users that simplifies, secures, and makes truly stable digital currencies and decentralised finance (DeFi) in general accessible for the masses.
  
 To minimise the risk of human factors and preserve the DeFi commons’ fundamental ethos of permissionless access, the Currynomics ecosystem cannot be governed by a centralised entity.
@@ -26,13 +26,5 @@ DAO governance token holder can:
 
 *[1] Subject to change according to the DAO design process.*
 
-## DAO Token Distribution
-Distribution first begins with two rounds of private sales, and then continues with the public sale through the distribution partners. According to our current relevant financial plan, our private sale round cap is 5 000 000€.
 
-![image](../../media/img/curry_distribution.png)
-
-
-![image](../../media/img/curry_allocation.png)
-
-
-[Next: DAO Revenue](/asset/dao/daoRevenue.md)
+[Next: DAO Economics](/asset/dao/economics.md)

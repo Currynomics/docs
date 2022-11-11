@@ -60,3 +60,5 @@ Currynomics Labs OÜ is an Estonian-based company, which is responsible for the 
 All the intellectual property belongs to the Currynomics labs. Currynomics Labs's revenue is coming mainly from the DAO treasury's development pool. Redcurry Holding management fees, Real Estate transaction fees, and Redcurry transaction fees are directed to the DAO treasury, and all the DAO token transaction fees and taxes go into the DAO treasury.
  
 According to the tokenomical model, a certain percentage of the finances from the DAO treasury are redirected to the Development pool which belongs to the Currynomics Labs. Finances in Currynomics Labs will be used to offer different services for infrastructure development according to the financial plan of the company.
+
+[Next: Legal Aspects](/asset/legal/aspects.md)
