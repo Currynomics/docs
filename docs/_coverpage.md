@@ -1,7 +1,7 @@
-<!--_coverpage.md -->
+<!-- _coverpage.md -->
 
 <!-- logo -->
-![logo](/media/logo/redc_logo_r.png)
+![logo](/media/logo/redc_logo_v1.png)
 
 # A truly sovereign digital currency backed by commercial real estate.
 

@@ -9,14 +9,13 @@ Redcurry currency token is pegged to the NAV. Any change to the NAV without upda
 
 It would make little sense to use decentralized systems only to find full centralization at the data source. This is why the essential pieces of information, which are needed for NAV calculations, are derived from large amounts of accounting data, managed and published by a decentralized group of people in a publicly auditable manner.
 
-![image](../../media/img/curry_proccess_hor.png)
+![image](../../media/img/redc_arch.png)
+*Diagram 1: decentralized and distributed asset management architecture.*
 
 Redcurry is open-source, fully transparent, audited, permissionless, and on-chain. It is currently being implemented on Polkadot[1] and other chains. Redcurry is governed by the Currinomics Foundation, but will gradually evolve towards a Decentralised Autonomous Authority (DAO).
  
 Redcurry is intended to be a general means of payment and store-of-value for everyone, so we made the project fully transparent and public domain. All relevant information relating to the assets will be permanently available on- and off-chain for everyone, not just the Redcurry token holders. We are working with the leading industry partners to have real estate values and balance sheets fully audited. Have a look at our information policy section here.
 > Todo: add link    
-
-*Diagram 1: decentralized and distributed asset management architecture.*
 
 
 [Next: Asset Tracking](/asset/technology/tracking.md)

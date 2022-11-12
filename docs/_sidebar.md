@@ -41,6 +41,7 @@
 ** [Website](https://redcurry.co)
 ** [Partnerships](https://redcurry.co/partners)
 ** [Linktree](https://linktr.ee/redcurry)
+** [Deck](https://example.com)
 
 
 
