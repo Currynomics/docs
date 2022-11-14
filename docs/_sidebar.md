@@ -6,7 +6,7 @@
 * MINTING & REDEMPTION
 ** [Minting](/minting/minting.md)
 ** [Distribution](/minting/distribution.md)
-** [Redemption](/minting/redemption.md)
+<!-- ** [Redemption](/minting/redemption.md) -->
 
 * ASSET MANAGEMENT
 ** [Treasury Management](/asset/treasury/treasury.md)

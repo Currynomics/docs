@@ -41,7 +41,7 @@ At a later stage, SPVs might be grouped in regional / country holding companies,
 
 SPVs will always distribute their profits as far as possible to the Holding company. The SPVs will hold only so much liquidity, as is necessary to fulfill the CAPEX plans, repayment schedules of bank loans (if any), and other needs from day-to-day business. 
 
-![image](../../media/img/structure.png)
+<!-- ![image](../../media/img/structure.png) -->
 
 The SPVs will have only a minimal share capital. All other equity shall be provided (if possible) by contributions to capital reserves or similar structures so that equity can easily be returned if there is sufficient liquidity.
 

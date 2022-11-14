@@ -5,7 +5,7 @@
 
 # A truly sovereign digital currency backed by commercial real estate.
 
-* It's money immune to inflation
+* It's money resistant to inflation
 * Its money growing in value
 * It's everything money should be
 
