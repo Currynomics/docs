@@ -37,7 +37,7 @@
 ** [Legal Disclaimers](/asset/legal/disclaimers.md)
 
 * OTHER
-** [Currynomics Principles](https://redcurry.co/manifesto)
+** [Manifesto](https://redcurry.co/manifesto)
 ** [Website](https://redcurry.co)
 ** [Partnerships](https://redcurry.co/partners)
 ** [Linktree](https://linktr.ee/redcurry)
