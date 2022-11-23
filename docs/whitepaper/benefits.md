@@ -26,7 +26,9 @@ While transactions will still be conducted in fiat currency, Redcurry can be use
 
 Redcurry is the first digital means of payment where its value of it is objective (because it is based on independently valued real estate assets) and not volatile. While until now most purchase transactions with cryptocurrencies ultimately contained an exchange transaction (sellers accept crypto payment but immediately sell against cash), Redcurry allows for real digital payment transactions, where no exchange to fiat is needed. Purchases thus can finally become fully digital, real-time, and cost-efficient.
 
-<!-- ## Crypto uses cases
-> Todo: add -->
+## Crypto uses cases
+* Buy and hold (Real Estate investment and/or parking your capital into the stable asset); 
+* Proptech use cases, Deposits, insurance, inflation protection
+* Real asset collateral in DeFi protocols
 
-[Next: Minting](minting/minting.md)
+[Next: Treasury Management](/asset/treasury/treasury.md)

@@ -5,11 +5,6 @@
 ** [How it works](/whitepaper/how.md)
 ** [Benefits & Use Cases](/whitepaper/benefits.md)
 
-* MINTING & REDEMPTION
-** [Minting](/minting/minting.md)
-** [Distribution](/minting/distribution.md)
-<!-- ** [Redemption](/minting/redemption.md) -->
-
 * ASSET MANAGEMENT
 ** [Treasury Management](/asset/treasury/treasury.md)
 ** [Net Asset Value](/asset/nav/nav.md)
@@ -21,6 +16,8 @@
 
 * ECONOMICS
 ** [Redcurry vs Other Instruments](/asset/tokenomics/economics.md)
+** [Minting](/asset/tokenomics/minting.md)
+** [Distribution](/asset/tokenomics/distribution.md)
 ** [Tocenomics](/asset/tokenomics/tokenomics.md)
 ** [Governance](/asset/tokenomics/governance.md)
 ** [RE impact on value](/asset/tokenomics/reActions.md)
