@@ -7,6 +7,5 @@ Any minting of a new Redcurry token is triggered by a Euro or Euro stablecoin pa
  
 The fundamental concept behind Redcurry is to create a currency (or means of payment), which is appreciating, and without making a security. To disqualify as a security, the Redcurry token cannot provide Redcurry token holders with any rights to the assets backing its value. The REDC token only carries the underlying Real Estate portfolio’s NAV (Net Asset Value). This also creates the face value of the token. From that comes the store of value property which is a crucial prerequisite for any hard money and means of payment.
 
-<!-- [Next: Distribution](minting/distribution.md) -->
-[Next: Treasury Management](/asset/treasury/treasury.md)
+[Next: Distribution](minting/distribution.md)
 

@@ -1,4 +1,22 @@
 # Overview
+
+For running the Redcurry asset management infrastructure, the goal is to publish the most important information used for the treasury net asset value (NAV) calculations.
+
+The primary purpose of an on-chain asset tracking system is to introduce transparency, decentralization, and immutability into the otherwise seemingly centralized accounting systems of a fund. Another reason for on-chain asset tracking is to progress towards a fully trustless, and ultimately fully decentralized reporting, governance, and decision-making system.
+
+To better understand the requirements set on Redcurry’s asset tracking architecture, read the [Asset Management Principles](/asset/treasury/treasury.md).
+
+Redcurry currency token is pegged to the treasury NAV. Any change to the NAV without updates to supply will affect the currency's value. For the system to be trusted, its NAV must be published on a decentralized, distributed, immutable and trustless system - a public blockchain - following a process similar in design.  
+
+In other words, It would make little sense to use decentralized systems only to find full centralization at the data source. 
+
+As a result, our reporting system is developed so that all the essential pieces of information needed for NAV calculations, and which are derived from the extensive amounts of accounting data, are managed and published by a decentralized group of people in a publicly auditable manner. 
+
+The following diagram represent the high level architecture or Redcurry’s asset tracking and reporting system.
+
+![image](../../media/img/redc_arch.png)
+*Diagram 1: decentralized and distributed asset management architecture.*
+
 All smart contracts will be developed on an EVM compatible blockchain. Redcurry and DAO governance tokens will be implemented using the ERC20 standard the asset reporting smart contracts using the ERC720 standard.
 
 The product has to successfully carry out the following requirements:
@@ -21,4 +39,4 @@ The product has to successfully carry out the following requirements:
     * Institutional grade MPC wallet management.
 
 
-[Next: Architecture](/asset/technology/architecture.md)
+[Next: Asset Management](/asset/technology/management.md)

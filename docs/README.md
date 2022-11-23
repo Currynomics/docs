@@ -3,11 +3,9 @@ Redcurry is a digital currency, designed to preserve the value of money, and pro
  
 Redcurry is our initial Curry: the first digital currency fully linked to the Net Asset Value (NAV) of a commercial real estate portfolio. Why did we choose real estate? Because it is a well-established asset category with huge market volume, while also providing long-term price stability and robust protection against inflation.
  
-Redcurry fully follows the Currynomics principles, and is ultimately governed by the non-profit Currynomics Foundation, acting solely for the benefit of the Redcurry and Currynomics community. Read more about the functioning and structure of Redcurry here.
+Redcurry fully follows the Currynomics principles, and is ultimately governed by the non-profit Currynomics Foundation, acting solely for the benefit of the Redcurry and Currynomics community.
  
-This is a monetary-theory-driven concept and consistent in itself, which means Redcurry also has the potential to make the store of wealth available to people who do not have access to banking services (Africa and Asia), or who struggle with massive devaluation of their local currency.
- 
-Our vision is one of financial abundance everywhere, and a solution to the economic hardship which many people experience. There is enough money and resources for everyone in the World to live life securely, and we seek to empower all life on this planet, in every way.
+This is a monetary-theory-driven concept and consistent in itself, which means Redcurry also has the potential to make the store of wealth available to people who do not have access to banking services, or who struggle with massive devaluation of their local currency.
  
 There are many different reasons why people struggle with their finances: financial education, money psychology, access to financial tools and capital, etc. The Currynomics community aims to transform the current paradigm, with an education program and the introduction of a stable, protected, secure, financial tool we call Redcurry, available for everyone. Because for decades, monetary theory has discussed ideas for new forms of money. And while Bitcoin and others have built their concept on defined scarcity or algorithms, we have taken a fresh look at money in general, and realized it is time for a truly new type of money.
  

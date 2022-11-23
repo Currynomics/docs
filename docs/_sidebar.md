@@ -1,7 +1,9 @@
 <!-- docs/_sidebar.md -->
 * WHITEPAPER
 ** [Introduction](/whitepaper/intro.md)
+** [Manifesto](/whitepaper/manifesto.md)
 ** [How it works](/whitepaper/how.md)
+** [Benefits & Use Cases](/whitepaper/benefits.md)
 
 * MINTING & REDEMPTION
 ** [Minting](/minting/minting.md)
@@ -11,6 +13,7 @@
 * ASSET MANAGEMENT
 ** [Treasury Management](/asset/treasury/treasury.md)
 ** [Net Asset Value](/asset/nav/nav.md)
+** [Real Estate Valuation](/asset/real/valuation.md)
 ** [Real Estate Management](/asset/real/real.md)
 
 * SECURITY
@@ -24,12 +27,13 @@
 
 * CURRYNOMICS DAO
 ** [About](/asset/dao/dao.md)
-** [Economics](/asset/dao/daoRevenue.md)
+** [Economics](/asset/dao/economics.md)
 
 * TECHNOLOGY
 ** [Overview](/asset/technology/technology.md)
-** [Architecture](/asset/technology/architecture.md)
-** [Asset Reporting](/asset/technology/tracking.md)
+** [Asset Management](/asset/technology/management.md)
+** [Oracle](/asset/technology/oracle.md)
+** [Explorer](/asset/technology/explorer.md)
 
 * LEGAL STRUCTURE
 ** [Overview](/asset/legal/overview.md)

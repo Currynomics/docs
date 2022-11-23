@@ -24,16 +24,6 @@ An alternative solution for such investors would be to use Redcurry as a transac
  
 In cases where Redcurry Holding will not invest directly in the acquisition of a property, but rather acquire a stake in a real estate-owning company or a real estate fund, the valuation of the real estate will happen on the level of the company or the fund. Therefore, Redcurry Holding will only need to evaluate the value of its shareholding versus the acquisition cost, and this again ensures the NAV of Redcurry exactly reflects the value of the investments held by Redcurry Holding.
 
-
-## RE Valuation Principles
-The RedCurry valuation methodology is based on the acquisition value of each property. Each property will be recorded at full acquisition cost (including transaction costs) and this value will not be subject to annual depreciation, as typically required under local GAAP rules. 
-
-Once per year, for each property two valuations will be performed: one external Market Price valuation based on standard valuation rules, and one internal valuation based on replacement Cost Approach. The acquisition value of the property will then be compared with the average of the two valuations; if the average of the valuations is equal to or higher than the acquisition value, then nothing happens, and the acquisition value remains unchanged. However, if the average of the valuations is below the acquisition value, then the acquisition value will be corrected downwards by such difference. The correction will be maintained as long as the average of the valuations remains below the acquisitions value, and it will be adapted each year to reflect the most recent difference. Once the average of the valuations exceeds again the acquisition value, the correction will be set to zero.
-
-In case of long-term investments into the building, the acquisition value will increase accordingly. Such investments will include replacement of technical components (e.g., change of elevator), however will not include simple repairs, and not minor investments. The annual comparison of valuations versus acquisition value will of course be performed always against the latest, increased acquisition value. 
-
-When looking at the Value of Real Estate, we are facing a different scenario: while Other Assets and Liabilities change (mostly) through actual cash flow effects (e.g., rent payments reach the bank account of the company), the Value of Real Estate is in mostly a non-cash-flow figure. Only the acquisition or the sale of a property causes cash to flow, but between these two events, the Value of the Real Estate might change many times, without ever having any cash-flow impact. 
-
 ## Managing The Portfolio
 The Holding company is a pure investment holding without any real-estate-related operative activities. The costs of the Holding company are covered solely by rental income received via owned SPVs (as dividends) or RE Funds. 
 

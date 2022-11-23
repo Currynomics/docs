@@ -5,4 +5,4 @@ The financial distribution partners of Redcurry will distribute the tokens to th
  
 The client holding the Redcurry token (holder) is a passive token holder. In other words, the holder cannot interact with the Holding in any way. Neither does the holder have any special information rights stemming from holding the token - any and all information relating to the issuance and management of Redcurry is in the public domain.
 
-[Next: Redemption](minting/redemption.md)
+[Next: Treasury Management](/asset/treasury/treasury.md)
