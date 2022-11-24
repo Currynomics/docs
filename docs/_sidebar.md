@@ -35,11 +35,10 @@
 ** [Legal Disclaimers](/asset/legal/disclaimers.md)
 
 * OTHER
-** [Manifesto](https://redcurry.co/manifesto)
-** [Website](https://redcurry.co)
-** [Partnerships](https://redcurry.co/partners)
-** [Linktree](https://linktr.ee/redcurry)
-** [Deck](https://example.com)
+** [<span style="text-decoration: underline">Manifesto</span>](https://redcurry.co/manifesto)
+** [<span style="text-decoration: underline">Website</span>](https://redcurry.co)
+** [<span style="text-decoration: underline">Partnerships</span>](https://redcurry.co/partners)
+** [<span style="text-decoration: underline">Linktree</span>](https://linktr.ee/redcurry)
 
 
 

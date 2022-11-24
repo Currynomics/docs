@@ -10,4 +10,4 @@
 * It's everything money should be
 
 [Website](https://redcurry.co)
-[Read](#about)
+[Read](#Introduction)

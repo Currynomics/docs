@@ -1,14 +1,14 @@
 # Treasury management
-The treasury acts as a buffer between Redcurry sales (minting) and investment of the proceeds into real estate, and is also used in case buybacks are required. All cash (both Euro and stablecoins) in the Holding treasury is considered part of the NAV, as it is prescribed to be used solely for real estate investments and buy-back of Redcurry tokens (REDC).
- 
-It is foreseen that the Holding then invests the majority of the cash, with some kept in treasury as a stability mechanism, into high-quality commercial real estate. The activity of investing in Commercial Real Estate (CRE) is done to generate rental income and aims to achieve a continuously growing net asset value with a focus on minimal volatility.
- 
-The treasury is considered, together with the real-estate portfolio, as part of the total assets under management (AUM) and is calculated into the net asset value (NAV) of the holding. Consisting of Euros, it is intended to be invested into real estate directly or through indirect investments like RE funds.
- 
-The treasury size is capped at 10% of the total NAV until the AUM grows over 10M Euro. After this, the treasury size is recalibrated by the Holding company as necessary for the optimal token peg to NAV. The treasury size is mostly affected by the demand for the token and its volatility. When the treasury size reaches the threshold, no more Redcurry tokens will be sold and thus minted. A large part of the treasury management will be to ensure such a situation rarely happens as the goal is to keep an even balance of the treasury - not too high, not too low.
- 
-If treasury cash runs low from buying real estate, then a pipelined real estate investment opportunity is executed. This means that a new token generation event is organised by Redcurry including minting and sales of REDC. The consecutive cash received is then invested into real estate. That which is not immediately invested, will remain in the treasury and be considered as part of the NAV.
-The Treasury will be managed by the Holding company in one or many international bank accounts. All treasury activities including the accounts and SPVs are audited by independent external auditing firms while the everyday activity is overseen by the Currinomics Foundation.
+The treasury acts as a buffer between Redcurry sales (minting) and investment of the minting proceeds into real estate, and is also used in case buybacks of Redcurry tokens are intended. All cash in the treasury is cash owned by the Redcurry Holding and thus by default part of the NAV.
+
+Typically, the Redcurry Holding will sell (mint) new tokens, when it has opportunities to invest into new high-quality commercial real estate. It will however not mint tokens only because there is demand for new tokens. Rather, Redcurry Holding will aim at keeping the treasury in balance, which means that the cash position of the treasury does not exceed certain thresholds. This is making the Redcurry token non-inflationary.
+
+The aim is to keep 10% of the total NAV in cash in the treasury. In the initial growth period of Redcurry, when the assets under management are below 100 Mill EUR, the treasury might at some point of time also hold more than 10%, but in the long-run the 10% threshold will be aimed at. 
+
+The treasury will mint and sell new tokens whenever the cash position in the treasury falls significantly below 10% of NAV, typically because cash from the treasury was spent for a real estate investment. In case of a planned large investment, minting of tokens might occur even when the treasury has 10% of NAV in cash.
+
+The treasury will buy and burn tokens using its cash holding position whenever an oversupply of Redcurry tokens occurs. In case of a long-term oversupply of Redcurry tokens (measured in weeks or months), Redcurry Holding will decide to sell a property or investment to refill the treasury cash position and then potentially buy and burn even more tokens. 
+Both, minting and selling of new tokens or buying and burning of tokens, can always occur only at the current NAV per token price level. Therefore, at no point of time the sale or purchase of tokens by the treasury will influence the NAV and therefore no dilution of Redcurry token holders can occur. 
 
 
 [Next: Net Asset Value](/asset/treasury/nav.md)
