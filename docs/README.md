@@ -10,22 +10,19 @@ Redcurry is non-inflationary, not volatile, appreciates compared to its referenc
 * The NAV of Redcurry is increasing even if the underlying assets are not changing in value. The reason is that the Redcurry treasury is not only receiving cash from minting but also for the commercial operation of the real estate assets, i.e., rental income. This income is reinvested into further real estate, automatically increasing the NAV. Redcurry is thus systematically appreciating.
 * Real Estate tends to increase in value during times of inflation, and also rent income increases, as typically rent agreements are inflation-indexed. This provides double protection against inflation. Redcurry is resistant to Euro inflation.
 
-Redcurry fully follows the Currynomics principles and is ultimately governed by the non-profit Currynomics Foundation, acting solely for the benefit of the Redcurry and Currynomics community. Read more about the functioning and the structure of Redcurry in the next chapter here(2).
+Redcurry fully follows the Currynomics principles and is ultimately governed by the non-profit Currynomics Foundation, acting solely for the benefit of the Redcurry and Currynomics community. [Read more on the legal structure of Redcurry here.](/asset/legal/overview.md)
 
-Holding Redcurry in itself has its merits - it’s smarter than cash and protects you from the effects of inflation. But there is a bigger picture: Redcurry is also an ecosystem for the development of numerous highly innovative use cases. Read our use-case section here(3) for more on the disruptive changes Redcurry can bring to various fields of business activity.
+Holding Redcurry in itself has its merits - it’s smarter than cash and protects you from the effects of inflation. But there is a bigger picture: Redcurry is also an ecosystem for the development of numerous highly innovative use cases. [Read about Redcurry use-cases here](/whitepaper/benefits.md) and learn more on the disruptive changes Redcurry can bring to various fields of business activity.
 
+Redcurry is intended to be a general means of payment and store-of-value for everyone, so we made the project fully transparent, highly decentralized, and public domain. All relevant information relating to the assets will be permanently available online for everyone, not just the Redcurry token holders. And we will work with the best industry partners to have real estate values and balance sheets fully audited. 
+> TODO: Have a look at our information policy section here(7).
 
-Redcurry is intended to be a general means of payment and store-of-value for everyone, so we made the project fully transparent, highly decentralized, and public domain. All relevant information relating to the assets will be permanently available online for everyone, not just the Redcurry token holders. And we will work with the best industry partners to have real estate values and balance sheets fully audited. Have a look at our information policy section here(7).
-
-Redcurry is open-source, fully transparent, audited, permissionless, and on-chain. It is currently being implemented on Ethereum and other chains. Redcurry is governed by the Currinomics Foundation, but will gradually evolve toward a DAO. Read more about the Redcurry technology and the Currynomics governance token here(8).
+Redcurry is open-source, fully transparent, audited, permissionless, and on-chain. It is currently being implemented on Ethereum and other chains. Redcurry is governed by the Currinomics Foundation, but will gradually evolve toward a DAO. [Read more about the product and technology here](/asset/technology/overview.md).
 
 With Redcurry we are opening the first chapter of a truly inspiring book. Redcurry will not remain solitary, but will soon be accompanied by other Curries, based on different assets, with new use cases and stories attached to them. Stay tuned for more to come.
 
 
-
-
-<!-- Telegram: [INSERT]   -->
-<!-- Telegram (announcements): <a href="https://t.me/redcurryupdates" target="_blank">JOIN</a>   -->
+Telegram (announcements): <a href="https://t.me/RedcurryOfficial" target="_blank">JOIN</a>  
 Website: <a href="https://redcurry.co" target="_blank">VISIT</a>   
 Discord: <a href="https://discord.gg/z8kgCvxtea" target="_blank">JOIN</a>    
 LinkedIn: <a href="https://www.linkedin.com/company/86164816" target="_blank">VISIT</a>    
