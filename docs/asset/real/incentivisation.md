@@ -11,4 +11,4 @@ As the functioning of the Redcurry system is to a certain extent a public functi
 
 At the level of the Asset Managers, the incentivization shall focus even more on the continuity of operations of each property, i.e., low vacancy, low fluctuation of tenants, growing cash flow with minimal volatility, and cost-efficiency.
 
-[Next](/asset/tokenomics/tokenomics.md)
+[Next](/asset/economics/economics.md)

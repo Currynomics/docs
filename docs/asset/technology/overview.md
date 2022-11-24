@@ -4,7 +4,7 @@ For running the Redcurry asset management infrastructure, the goal is to publish
 
 The primary purpose of an on-chain asset tracking system is to introduce transparency, decentralization, and immutability into the otherwise seemingly centralized accounting systems of a fund. Another reason for on-chain asset tracking is to progress towards a fully trustless, and ultimately fully decentralized reporting, governance, and decision-making system.
 
-To better understand the requirements set on Redcurry’s asset tracking architecture, read the [Asset Management Principles](/asset/treasury/treasury.md).
+To better understand the requirements set on Redcurry’s asset tracking architecture, read the [Asset Management Principles](/asset/treasury/management.md).
 
 Redcurry currency token is pegged to the treasury NAV. Any change to the NAV without updates to supply will affect the currency's value. For the system to be trusted, its NAV must be published on a decentralized, distributed, immutable and trustless system - a public blockchain - following a process similar in design.  
 

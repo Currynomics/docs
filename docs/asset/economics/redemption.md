@@ -5,4 +5,4 @@ During turbulent market conditions when the REDC price falls under the NAV, Redc
 The redemption of REDC is followed by the burning of the token and is the reverse process of minting it. In other words, this means buying them back from the market at NAV and destroying (burning) them. This event will stabilise the market price when there is decreasing demand and price drops.
  
 
-[Next: Treasury Management](/asset/treasury/treasury.md) -->
+[Next: Treasury Management](/asset/treasury/management.md) -->

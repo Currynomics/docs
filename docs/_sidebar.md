@@ -1,33 +1,30 @@
 <!-- docs/_sidebar.md -->
 * WHITEPAPER
-** [Introduction](/whitepaper/intro.md)
+<!-- ** [Introduction](/whitepaper/intro.md) -->
 ** [Manifesto](/whitepaper/manifesto.md)
 ** [How it works](/whitepaper/how.md)
 ** [Benefits & Use Cases](/whitepaper/benefits.md)
 
 * ASSET MANAGEMENT
-** [Treasury Management](/asset/treasury/treasury.md)
-** [Net Asset Value](/asset/nav/nav.md)
-** [Real Estate Valuation](/asset/real/valuation.md)
-** [Real Estate Management](/asset/real/real.md)
+** [Treasury Management](/asset/treasury/management.md)
+** [Net Asset Value](/asset/treasury/nav.md)
+** [Real Estate Valuation](/asset/treasury/valuation.md)
+** [Real Estate Management](/asset/treasury/re.md)
 
 * SECURITY
-** [Security & Trust](/asset/security/security.md)
+** [Security & Trust](/asset/security/overview.md)
 
 * ECONOMICS
-** [Redcurry vs Other Instruments](/asset/tokenomics/economics.md)
-** [Minting](/asset/tokenomics/minting.md)
-** [Distribution](/asset/tokenomics/distribution.md)
-** [Tocenomics](/asset/tokenomics/tokenomics.md)
-** [Governance](/asset/tokenomics/governance.md)
-** [RE impact on value](/asset/tokenomics/reActions.md)
+** [Redcurry vs Other Instruments](/asset/economics/overview.md)
+** [Tokenomics](/asset/economics/tokenomics.md)
+** [Governance](/asset/economics/governance.md)
 
 * CURRYNOMICS DAO
-** [About](/asset/dao/dao.md)
+** [About](/asset/dao/overview.md)
 ** [Economics](/asset/dao/economics.md)
 
 * TECHNOLOGY
-** [Overview](/asset/technology/technology.md)
+** [Overview](/asset/technology/overview.md)
 ** [Asset Management](/asset/technology/management.md)
 ** [Oracle](/asset/technology/oracle.md)
 ** [Explorer](/asset/technology/explorer.md)

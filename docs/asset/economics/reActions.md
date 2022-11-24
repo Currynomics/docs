@@ -51,4 +51,4 @@ In principle, the sale of real estate should have no impact on the NAV, similar 
 > Add table
 
 
-[Next: Currynomics DAO](/asset/dao/dao.md)
+[Next: Currynomics DAO](/asset/dao/overview.md)

@@ -29,7 +29,7 @@ The volatility issue with bonds is also relevant: a long term investment in bond
 
 The same would actually happen with real estate as well, however, while in case of a bond neither the repayment nominal of 100 nor the interest rate will change, in case of a real estate you quite likely will see higher rent income (higher interest rate usually mean high inflation) and also higher demand for real estate would ultimately set off the price impact of higher interest rates.
 
-## Fiat & Stablecoins
+## Fiat and stablecoins
 The challenges of the modern global economy and the temptation or need for politics to sacrifice the value preservation of money and to utilize monetary policy for various other goals, calls for new solutions. While stablecoins are pegged to fiat and they do enable fast transactions and utilize other opportunities, they do not solve the main problem: inflation and the resulting loss of value of fiat money.
 
 Today’s money is fiat money. It is not backed by any commodity nor does it have any intrinsic value. It has value because it is typically declared by the governments to be legal tender and the people who use it agree on its value. But as fiat money is not backed by anything, the supply of such money is in principle unlimited. Oversupply of money typically leads to inflation, or in extreme cases to hyperinflation. And while the task of national banks issuing fiat money is typically also to fight inflation, we see that the political interests might compel a national bank to abandon its inflation containment goal to a lesser or larger extent.
@@ -40,7 +40,8 @@ The question, whether on the level of national economies a certain loss of value
 
 The aftermath of the 2008 financial crisis and increasing government deficits have led to an expansionary monetary policy. In such an environment, the store of value has gained even greater importance.
 
-### Compared to stablecoins
+**Comparison to stablecoins**
+
 ![image](../../media/img/compare_stables.png)
 
 
@@ -52,4 +53,4 @@ However, even though Bitcoin is the prototype digital currency, it has failed to
 While inflation is a sometimes more, sometimes less gentle slope downwards, volatility is a roller-coaster ride with an unclear ending – both are undesirable.
 
 
-[Next: Minting](/asset/tokenomics/minting.md)
+[Next: Tokenomics](/asset/economics/tokenomics.md)

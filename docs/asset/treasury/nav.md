@@ -12,4 +12,4 @@ Cash and equivalents are part of the Treasury. Receivables, as more illiquid ass
 The key factor here is the fact that the Redcurry Holding does not have any external factors forcing it to sell real estate at a certain point in time. There is no investment period to be obeyed and there is no high bank financing in place which might force the owner of a real estate to sell. Therefore, in the case of Redcurry, specific valuation methods need to be used. They are primarily looking at the long-term value of the secured cash flow of the respective property, rather than momentary snapshots of market transaction price levels. These methods are also fully recognised and common under IFRS standards.
 
 
-[Next: Real Estate Valuation](/asset/real/valuation.md)
+[Next: Real Estate Valuation](/asset/treasury/valuation.md)

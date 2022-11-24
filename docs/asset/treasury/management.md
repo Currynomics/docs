@@ -11,4 +11,4 @@ If treasury cash runs low from buying real estate, then a pipelined real estate 
 The Treasury will be managed by the Holding company in one or many international bank accounts. All treasury activities including the accounts and SPVs are audited by independent external auditing firms while the everyday activity is overseen by the Currinomics Foundation.
 
 
-[Next: Net Asset Value](/asset/nav/nav.md)
+[Next: Net Asset Value](/asset/treasury/nav.md)

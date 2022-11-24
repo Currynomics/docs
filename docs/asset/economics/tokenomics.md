@@ -17,7 +17,7 @@ Redcurry tokens will be distributed to the public markets only by verified distr
 ### Transaction fee
 From all REDC transactions, there will be a transaction fee of **0.02%** which goes into the DAO treasury and will be divided there by the DAO tokenomics, combined with the DAO Governance system.
 
-### Token Liquidity
+### Token liquidity
 Liquidity of the token is essential to the design and will be developed in three ways:
  
 1. Through the centralised distribution partners
@@ -25,4 +25,4 @@ Liquidity of the token is essential to the design and will be developed in three
 3. Through third-party liquidity pools and secondary markets
 
 
-[Next: Governance](/asset/tokenomics/governance.md)
+[Next: Governance](/asset/economics/governance.md)
