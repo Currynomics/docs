@@ -1,6 +1,5 @@
 
-Benefits & Use Cases
-## Redcurry benefits
+## Benefits & Use Cases
 
 Redcurry is smarter than cash and protects you from the effects of inflation. This is a summary of the multiple benefits which come with Redcurry. Let’s have a closer look: 
 
