@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 * WHITEPAPER
-<!-- ** [Introduction](/whitepaper/intro.md) -->
+** [Introduction](/whitepaper/intro.md)
 ** [Manifesto](/whitepaper/manifesto.md)
 ** [How it works](/whitepaper/how.md)
 ** [Benefits & Use Cases](/whitepaper/benefits.md)
