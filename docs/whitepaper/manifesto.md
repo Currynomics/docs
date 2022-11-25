@@ -1,5 +1,5 @@
 # Understanding Money
-> Key outtakes from the full [Currynomics Manifesto](https://redcurry.co/manifesto/)
+> Key outtakes from the [Currynomics Manifesto](https://redcurry.co/manifesto/)
 
 The history of money is a thrilling, colourful story of human civilization and its everlasting creativity in economic activity. While most of us associate the history of money with precious metals, above all gold, we tend to overlook that other forms of money have also existed.
 

@@ -1,11 +1,15 @@
 # How it works
-The fundamental concept behind Redcurry is to create a currency (or means of payment), which is appreciating in value, and without making it a security. To disqualify as a security, the Redcurry token cannot provide Redcurry token holders with any rights to the assets backing its value. Read more on the legal aspects of the Redcurry [here](/legal/overview.md). 
+The fundamental concept behind Redcurry is to create a currency (or means of payment), which is appreciating in value, and without making it a security. To disqualify as a security, the Redcurry token cannot provide Redcurry token holders with any rights to the assets backing its value. [Read more on the legalities of Redcurry](/asset/legal/overview.md). 
 
-But if the Redcurry token does not represent any rights, how is the value of it backed by real estate? The solution is enabled by the legal structure below:
+But if the Redcurry token does not represent any rights, how is the value of it backed by real estate? The solution is enabled by the legal structure below and the [technology](/asset/technology/overview.md) described in the later chapters.
 
 ![image](../media/img/how.png)
 
-Redcurry Holding is the legal entity issuing the Redcurry token. With the sale of a Redcurry token, Redcurry Holding earns money, which it is obliged to invest solely into commercial real estate. This step ensures a permanent balance between Redcurry tokens issued and real estate value owned by Redcurry Holding. To achieve the linking of the Redcurry Token to the real estate assets, it is imperative that no money or value can leave Redcurry Holding. For this purpose, the ownership structure above Redcurry Holding is created with the non-profit Currynomics Foundation as the sole shareholder. The Currynomics Foundation ensures that Redcurry Holding company does not distribute dividends and that Redcurry Holding invests all proceeds into real estate. Effectively, Redcurry Holding is a locked box where all sales proceeds of Redcurry tokens ever generated are stored, in the form of real estate and cash. The only way cash leaves Redcurry Holding, is when it buys back Redcurry tokens and burns them. And this can only take place at the respective Net Asset Value per token, so no dilution effect occurs. To have a deeper look at the Currynomics Foundation and Redcurry Holding, read more here(4).
+Redcurry Holding is the legal entity issuing the Redcurry token. With the sale of a Redcurry token, Redcurry Holding earns money, which it is obliged to invest solely into commercial real estate. This step ensures a permanent balance between Redcurry tokens issued and real estate value owned by Redcurry Holding. 
+
+To achieve the linking of the Redcurry Token to the real estate assets, it is imperative that no money or value can leave Redcurry Holding. For this purpose, the ownership structure above Redcurry Holding is created with the non-profit Currynomics Foundation as the sole shareholder. 
+
+The Currynomics Foundation ensures that Redcurry Holding company does not distribute dividends and that Redcurry Holding invests all proceeds into real estate. Effectively, Redcurry Holding is a locked box where all sales proceeds of Redcurry tokens ever generated are stored, in the form of real estate and cash. The only way cash leaves Redcurry Holding, is when it buys back Redcurry tokens and burns them. And this can only take place at the respective Net Asset Value per token, so no dilution effect occurs. [Read more about the Currynomics Foundation and Redcurry Holding.](/asset/legal/overview?id=currynomics-foundation)
 
 
 The process of minting Redcurry tokens follows a few simple rules:

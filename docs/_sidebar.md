@@ -30,6 +30,7 @@
 
 * LINKS
 ** [<span style="text-decoration: underline">Manifesto</span>](https://redcurry.co/manifesto)
+** [<span style="text-decoration: underline">FAQ</span>](https://redcurry.co/faq)
 ** [<span style="text-decoration: underline">Website</span>](https://redcurry.co)
 ** [<span style="text-decoration: underline">Partnerships</span>](https://redcurry.co/partners)
 ** [<span style="text-decoration: underline">Linktree</span>](https://linktr.ee/redcurry)
