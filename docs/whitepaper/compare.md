@@ -52,5 +52,14 @@ However, even though Bitcoin is the prototype digital currency, it has failed to
 
 While inflation is a sometimes more, sometimes less gentle slope downwards, volatility is a roller-coaster ride with an unclear ending – both are undesirable.
 
+<a href="/#/asset/technology/overview">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Technology</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
 
-[Next: Tokenomics](/asset/economics/tokenomics.md)
+<!-- [Next: Technology](/asset/technology/overview.md) -->

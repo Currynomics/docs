@@ -27,19 +27,7 @@ The Currynomics Foundation does not have any operative function in the RedCurry 
 It is essential to understand that the Currynomics Foundation is de facto a non-profit structure. The Foundation is not entitled to receive any dividends from RedCurry Holding (except for minimal amounts to cover the mandatory cost of the Foundation) and aside from exercising its rights as a shareholder of RedCurry Holding and supervising it, it has no commercial activities at all. The Foundation is thus ensuring that no assets leave RedCurry Holding and thus the RedCurry system. Therefore, also the necessary costs of Currynomics Foundation are kept at a minimal level. 
 
 As Currynomics Foundation has no own business activity and is not allowed to enter into any financial obligations or other risks, it can be safely assumed that the Foundation never can become insolvent. Therefore, the only scenario for the ending of the activity of the Foundation is its voluntary liquidation, which would have to be decided upon by the board of directors and in line with the regulations of the Foundation deed. In case of liquidation, RedCurry Holding would have first to sell all of its assets, buy back all RedCurry Tokens at the Net Asset Value and burn them, and then be liquidated. As a result, practically no assets would be left to be distributed to the Foundation and thus in case of the liquidation of the Currynomics Foundation itself, practically no assets at all can be left for final distribution. 
-<!-- However, as by law, a final beneficiary has to exist, the final beneficiary shall be – also to once more underline the non-profit aspect of the Foundation – the UNICEF organization. -->
 
-<!-- The Currinomics Foundation is a Private Foundation under the Law of the Republic of Austria. Austrian Private Foundations are regulated by the so-called Privatstiftungsgesetz (Law on Private Foundations), which is legally in force since the 1990s. Austrian Private Foundations are legal entities by the virtue of law, without any owner. Therefore, the management of the Austrian Private Foundation is only obliged to follow the regulations of the statutes of the Foundation and is not bound by the instructions or decisions of any shareholder. Also, Austrian Private Foundations have a "purpose" that can be freely defined. The Currrynomics Foundation has as its sole purpose the maintenance of the Redcurry system. The purpose of the Foundation must be fulfilled by the Foundation's board of directors at all times and as the sole objective.
- 
-Statutes of Austrian Private Foundations can be made partly or fully unchangeable, and thus cannot be changed later even by the founder of the Foundation or the board of directors. In the Currynomics Foundation, it is for example defined as an unchangeable regulation that the Foundation must ensure that any and all REDC issued are bought back at the respective Net Asset Value at all times.
- 
-Statutes and by-laws of Austrian Private Foundations can regulate all activities of the Foundation and its board of directors to the smallest detail. Even "what if" regulations can be implemented, ensuring that the behaviour of the Foundation follows exactly the original intentions of the founder. And an Austrian Foundation not only has no shareholders... it can also regulate to have no beneficiaries, making it impossible to distribute any money or assets. The Foundation must only have a final beneficiary, who is receiving the proceeds of the liquidation of the Foundation. However, such liquidation can be conditional; in the case of Redcurry, it is conditional to a prior buyback of any and all Redcurry Tokens at the respective Net Asset Value, leaving factually no assets for distribution to the final beneficiary.
- 
-The Currynomics Foundation is a non-profit structure and is not entitled to receive any dividends from the Holding (except for minimal amounts to cover the mandatory cost of the Foundation). Aside from exercising its rights as a shareholder of the Holding and supervising it, it has no commercial activities at all. The Foundation is thus ensuring that no assets leave the Holding and thus the Redcurry system. Therefore, also the necessary costs of the Foundation are kept at a minimal level.
- 
-The Currinomics Foundation does not have any operative function in the Redcurry system. Its objective is to supervise the activities of the Holding and, when necessary, exercise its shareholder rights. The operative business is taking place in the Holding. However, the Foundation is the watchdog ensuring that the Redcurry system is fulfilling its objectives. Therefore, the board of directors of the Currynomics Foundation needs to be composed of trustworthy and reputable persons, who are competent enough to supervise the activities of the Holding. The procedures for the election of the board of directors are outlined in the Foundation deed.
- 
-As the Foundation has no own business activity and is not allowed to enter into any financial obligations or other risks, it can be safely assumed that the Foundation can never become insolvent. Therefore, the only scenario for the ending of the activity of the Foundation is its voluntary liquidation, which would have to be decided upon by the board of directors and in line with the regulations of the Foundation deed. In the case of liquidation, the Holding would have first to sell all of its assets, buy back all REDC at the NAV, burn them, and then be liquidated. -->
 
 ## Redcurry Holding
 The Holding is responsible for the financial management of Redcurry system. This includes daily cash management of all subsidiaries and of the Holding, drawing up annual reports and the group financial statements, arranging for the audit of all legal entities within the Redcurry system, and employment of tax advisory services. The Holding aggregates all information collected and prepared by the Asset Management and ensures the writing of the main parts of this information, above all the Net Asset Value, to the Token. In addition, the Holding is also maintaining the information channels to the public.
@@ -77,4 +65,15 @@ All the intellectual property belongs to the Currynomics labs. Currynomics Labs'
  
 According to the tokenomical model, a certain percentage of the finances from the DAO treasury are redirected to the Development pool which belongs to the Currynomics Labs. Finances in Currynomics Labs will be used to offer different services for infrastructure development according to the financial plan of the company.
 
-[Next: Legal Aspects](/asset/legal/aspects.md)
+
+<a href="/#/asset/legal/aspects">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Legal Aspects</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
+
+<!-- [Next: Legal Aspects](/asset/legal/aspects.md) -->

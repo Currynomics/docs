@@ -16,6 +16,18 @@ The oracle can propagate the input directly to other DeFi services and dApps or 
 ## Oracle Roles
 The oracle also appoints third-party auditors or works with Currynomics Foundation auditors, to verify the source of data (accounting data) and the processes and technology used by the Redcurry system to report and track its assets.
 
+<a href="/#/asset/technology/explorer">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Redcurry Explorer</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
+
+<hr>
+
 [Get in touch](https://redcurry.co/partners) to connect your Oracle to Redcurry.
 
-[Next: Redcurry Explorer](/asset/technology/explorer.md)
+<!-- [Next: Redcurry Explorer](/asset/technology/explorer.md) -->

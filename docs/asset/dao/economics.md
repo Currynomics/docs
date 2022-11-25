@@ -21,4 +21,15 @@ The DAO operational budget treasury is a core contributor-controlled multisig us
 ### RedCurry Liquidity Pools Treasury 
 Redcurry tokens possess their own treasury containing the underlying assets backing the pool. The DAO has no direct control over this treasury and it’s fully managed by code.
 
-[Next: Technology](/asset/technology/overview.md)
+
+<a href="https://redcurry.co/manifesto" target="_blank">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Manifesto</p>
+        </div>
+        <div class="icon"><i class="material-icons">open_in_new</i></div>
+    </button>
+</a>
+
+<!-- [Next: Manifesto (leave)](https://redcurry.co/manifesto) -->

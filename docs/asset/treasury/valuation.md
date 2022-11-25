@@ -28,4 +28,14 @@ The other element of trust in the NAV is the annual testing of the OAV against t
 * Tracking of asset values on the basis of OAV cannot be manipulated, as it is solely based on accounting figures, both at acquisition and in case of subsequent increase of the OAV through investments. Buying a property in a calendar year will be reported in the annual report of that year as an asset, with the original acquisition value. As Redcurry's annual report is made public, anyone can cross-check this information leaving no room for manipulation.
 
 
-[Next: Real Estate Management](/asset/treasury/re.md)
+<a href="/#/asset/treasury/re">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Real Estate Management</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
+
+<!-- [Next: Real Estate Management](/asset/treasury/re.md) -->

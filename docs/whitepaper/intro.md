@@ -19,16 +19,21 @@ Redcurry is intended to be a general means of payment and store-of-value for eve
 
 Redcurry is open-source, fully transparent, audited, permissionless, and on-chain. It is currently being implemented on Ethereum and other chains. Redcurry is governed by the Currinomics Foundation, but will gradually evolve toward a DAO. [Read more about the product and technology here](/asset/technology/overview.md).
 
-With Redcurry we are opening the first chapter of a truly inspiring book. Redcurry will not remain solitary, but will soon be accompanied by other Curries, based on different assets, with new use cases and stories attached to them. Stay tuned for more to come.
+With Redcurry we are opening the first chapter of a truly inspiring book. Redcurry will not remain solitary, but will soon be accompanied by other Curries, based on different assets, with new use cases and stories attached to them. Stay tuned for more to come.  
 
-Telegram (announcements): <a href="https://t.me/RedcurryOfficial" target="_blank">JOIN</a>  
-Website: <a href="https://redcurry.co" target="_blank">VISIT</a>   
-Discord: <a href="https://discord.gg/z8kgCvxtea" target="_blank">JOIN</a>    
-LinkedIn: <a href="https://www.linkedin.com/company/86164816" target="_blank">VISIT</a>    
-Currynomics Manifesto: <a href="https://redcurry.co/manifesto" target="_blank">READ</a>     
-<!-- Twitter: [to be published]   -->
-<!-- Foundation deed: [to be published]   -->
-<!-- Governance (discussion):[INSERT]  
-Governance (voting): tbd -->
+<a href="/#/whitepaper/manifesto">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Principles</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
 
-[Next: Manifesto](whitepaper/manifesto.md)
+<hr>
+<a href="https://redcurry.co" target="_blank">Website</a> | <a href="https://t.me/RedcurryOfficial" target="_blank">Telegram</a> | <a href="https://discord.gg/z8kgCvxtea" target="_blank">Discord</a> | <a href="https://www.linkedin.com/company/86164816" target="_blank">LinkedIn</a> | <a href="https://redcurry.co/manifesto" target="_blank">Manifesto</a> 
+
+
+
+<!-- [Next: Principles](whitepaper/manifesto.md) -->

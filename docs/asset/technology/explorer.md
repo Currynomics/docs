@@ -11,5 +11,14 @@ Each asset has its own details view, there anybody can see the history of the as
 
 As the assets are red directly from the blockchain, the same details can be confirmed using a public blockchain explorer (e.g.polygonscan.com) by searching for the Proof Of Reservers smart contract address).
 
+<a href="/#/asset/technology/transparency">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Transparency & Policy</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
 
-[Next: Legal Structure](/legal/overview.md)
+<!-- [Next: Transparency & Policy](/asset/technology/transparency.md) -->

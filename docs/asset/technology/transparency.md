@@ -1,4 +1,4 @@
-# Security & Trust
+# Transparency
 Trusting that the system maintains its value and operates for the benefit of the token holders we developed Redcurry around a legal framework which assures independent decision-makers are inhibited from developing motivations to misuse the system.
  
 The Currynomics Foundation is the watchdog and guardian of the Currynomics ecosystem. It is structured as a non-profit organization with the sole purpose to maintain and promote the ecosystem of Curries issued by its daughter companies. The Currynomics Foundation has to have an independent management board dedicated to protecting the Currynomics principles and ensuring their proper application. The daughter companies of the foundation must be managed independently by professionals experienced with the assets of the respective Curry.
@@ -9,5 +9,18 @@ The Holding shall manage the portfolio and establish subsidiaries (e.g. SPV-s) t
  
 Due to the long-term nature of the assets in the treasury, each Curry must be issued as not redeemable. Like many stablecoins, a Curry does not entitle its holder to demand redemption of a Curry against fiat currency. However, the treasury of each Curry is entitled to purchase back Curry tokens at the current NAV and destroy them. This principle enables the Curry volume in circulation to grow (issuing new Curries and the purchase of additional assets) or shrink (buying back burning Curries financed by the selling of assets) depending on the development of demand. Beyond that, the Currynomics principles require that each Curry-issuing holding must ultimately (i.e. before being liquidated) purchase and destroy all Curries that it has ever issued and that are still in circulation.
 
+# Information Policy
+> TODO: add information policy
 
-[Next: Economics](/asset/economics/overview.md)
+
+<a href="/#/asset/legal/overview">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Legal Structure</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
+
+<!-- [Next: Legal Structure](/asset/legal/overview.md) -->

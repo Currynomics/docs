@@ -3,4 +3,15 @@ The fundamental concept behind Redcurry is to create an alternative means of pay
  
 The definition of a security is outlined in the EU Market in Financial Instruments Directive ("MIFID2"); Redcurry does not fall under the definition of a security; this fact is confirmed by a detailed legal opinion. If Redcurry is not a security, it could be considered to be completely unregulated like a Utility Token. However, it is not the intention to keep Redcurry outside of any regulated market. Redcurry is meant to be an alternative to legal tender and therefore is an instrument of payment. Instruments of payment are regulated as well, however not by securities acts like MIFID2 but by banking sector acts. The Redcurry concept is designed to be in full compliance with such banking sector regulations, and therefore Redcurry is being distributed only through financial institutions licensed under the applicable banking sector acts.
 
-[Next: Legal Disclaimers](/asset/legal/disclaimers.md)
+
+<a href="/#/asset/legal/governance">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Governance</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
+
+<!-- [Next: Legal Disclaimers](/asset/legal/disclaimers.md) -->

@@ -1,5 +1,4 @@
 # Overview
-
 For running the Redcurry asset management infrastructure, the goal is to publish the most important information used for the treasury net asset value (NAV) calculations.
 
 The primary purpose of an on-chain asset tracking system is to introduce transparency, decentralization, and immutability into the otherwise seemingly centralized accounting systems of a fund. Another reason for on-chain asset tracking is to progress towards a fully trustless, and ultimately fully decentralized reporting, governance, and decision-making system.
@@ -38,5 +37,15 @@ The product has to successfully carry out the following requirements:
     * Development and security operations of smart contracts
     * Institutional grade MPC wallet management.
 
+<a href="/#/asset/technology/management">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Asset Management</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
 
-[Next: Asset Management](/asset/technology/management.md)
+<!-- [Next: Asset Management](/asset/technology/management.md) -->
+

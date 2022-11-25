@@ -85,4 +85,17 @@ Any transaction with the smart contracts, be that initial publishing or later up
 * Calculate true supply change according to NAV updates to maintain peg and avoid human errors.
 * Gateway to third party oracles - help with Supply and NAV validation.
 
-[Next: Oracles](/asset/technology/oracle.md)
+## Transaction fee
+From all Redcurry transactions, there will be a transaction fee of **0.02%** which goes into the DAO treasury and will be distributed to pools following current DAO tokenomics.
+
+<a href="/#/asset/technology/oracle">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Oracles</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
+
+<!-- [Next: Oracles](/asset/technology/oracle.md) -->

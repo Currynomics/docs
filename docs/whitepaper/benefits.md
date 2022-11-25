@@ -48,5 +48,14 @@ Redcurry is the first digital means of payment where its value of it is objectiv
 * Proptech use cases, Deposits, insurance, inflation protection
 * Real asset collateral in DeFi protocols
 
+<a href="/#/whitepaper/compare">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">Redcurry vs Other Instruments</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
 
-[Next: Treasury Management](/asset/treasury/management.md)
+<!-- [Next: Redcurry vs Other Instruments](/whitepaper/compare.md) -->

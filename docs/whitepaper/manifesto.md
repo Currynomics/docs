@@ -15,6 +15,17 @@ The question, whether on the level of national economies a certain loss of value
 
 The challenges of the modern global economy and the temptation (or need) for politics to sacrifice the value preservation of money and to utilize monetary policy for various other goals, calls for new solutions; the last two decades have shown tremendous new possibilities with the advance of digital technology, specifically with the adoption of blockchain applications.
 
-[Continue to full manifesto](https://redcurry.co/manifesto/)
+<a href="/#/whitepaper/how">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">How it works</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
 
-[Next: How it works](whitepaper/how.md)
+<hr/>
+
+[Full manifesto](https://redcurry.co/manifesto)
+<!-- [Next: How it works](whitepaper/how.md) -->

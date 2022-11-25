@@ -27,4 +27,15 @@ DAO governance token holder can:
 *[1] Subject to change according to the DAO design process.*
 
 
-[Next: DAO Economics](/asset/dao/economics.md)
+<a href="/#/asset/dao/economics">
+    <button class="nextButton" >
+        <div class="copy">
+            <p class="title">Next</p>
+            <p class="value">DAO Economics</p>
+        </div>
+        <div class="icon"><i class="material-icons">arrow_forward</i></div>
+    </button>
+</a>
+
+
+<!-- [Next: DAO Economics](/asset/dao/economics.md) -->
