@@ -8,7 +8,7 @@
 
 * TECHNOLOGY
 ** [Overview](/asset/technology/overview.md)
-** [Asset Management](/asset/technology/management.md)
+** [Data Management](/asset/technology/management.md)
 ** [Oracle](/asset/technology/oracle.md)
 ** [Explorer](/asset/technology/explorer.md)
 ** [Policy](/asset/technology/transparency.md)

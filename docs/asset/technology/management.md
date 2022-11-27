@@ -1,19 +1,18 @@
-# Asset Management
+# Data Management
 This section describes in detail Redcurry’s asset tracking, reporting, NAV calculations, and system actors.
 
 ## Asset tracking
-Redcurry accounting methods and principles follow local GAAP and International Financial Reporting Standards (IFRS) respectively, to track all assets under management (AUM). These assets can be cash (liabilities, receivables, cash on account) or non-cash (shares in funds, equity, SPVs with their nested accounting, tokens of tokenized property, etc), all generating large amounts of accounting data.
+Redcurry accounting methods and principles follow local GAAP and International Financial Reporting Standards (IFRS) respectively, to track all assets under management (AUM). These assets can be cash (liabilities, receivables, cash on account) or non-cash shares in funds, securities, other long-term assets, etc.), all generating large amounts of accounting data.
 
 This data is managed using off-chain tools and processes following the above-mentioned standards. Software similar to Inveniam.io, MS Power BI, Excel, and other known accounting software is used by the respective asset and property management companies.
 
-For calculating the NAV, which ultimately affects the real value of Redcurry currency, essential information is derived from the larger set of accounting data and is reported on blockchain by accountants and asset managers belonging to separate organizations across geographic and political lines with independent interests, goals, and liabilities - decentralized actors.
+For calculating the NAV, which ultimately affects the real value of Redcurry token, essential information is derived from the larger set of accounting data and is reported on blockchain by accountants and asset managers belonging to separate organizations in various regions and countries with independent interests, goals, and responsibilities - truly decentralized actors.
 
 ## Essential information
 According to the above-mentioned standards, the following information per asset is considered essential in calculating the total net value of the treasury. In other words, each asset is represented by its own set of essential information:
 
 * Original acquisition value (OAV).
 * OAV Impairment (OAV-I).
-* OAV Revaluation (OAV-R).
 * Other long-term assets (OLTA).
 * Other short-term assets (OSTA).
 * Receivables (REC).
@@ -25,9 +24,9 @@ According to the above-mentioned standards, the following information per asset 
     * Receivable
     * Liability
 
-This information is used to calculate the NAV per asset. The sum of all asset NAVs makes up the total NAV used to calculate the currency value.
+This information is used to calculate the NAV per asset. The sum of all asset NAVs makes up the total NAV defining the Redcurry token value.
 
-This aggregation and derivation of essential information are done by accountants and asset managers belonging to separate organizations across geography and countries with independent interests, goals, and liabilities - decentralized actors.
+This aggregation and derivation of essential information is done by accountants and asset managers belonging to separate organizations in various regions and countries with independent interests, goals, and responsibilities.
 
 Each actor works on their asset portfolio to derive the correct set of essential information and to publish that on-chain. This process introduces a natural level of decentralization. 
 
@@ -36,7 +35,7 @@ The actors responsible for deriving this essential information from the accounti
 ## NAV calculation
 Using the essential information defined above, the net asset value of individual assets are calculated usign the following formula.
 
-> NAV<small>asset</small>= OAV - OAVI + OAVR + OLTA + OSTA + REC - LIA + COA
+> NAV<small>asset</small>= OAV - OAVI + OLTA + OSTA + REC - LIA + COA
 
 Total NAV is made up of all the individual asset NAVs and is calculated using the formula below.
 > NAV<small>total</small> = NAV<small>asset 1</small> + NAV<small>asset 2</small> + ... + NAV<small>asset N</small>
@@ -47,7 +46,7 @@ Net asset per token is calculated by dividing the total NAV with the total suppl
 ## Essential Actors
 Each set of assets has an unrelated asset manager and accountants. For each asset, the essential actors need to derive and publish (sign off) all essential information and the consecutive NAV to a public blockchain. Redcurry, although owning all, seldomly fulfills this manager role. 
 
-* Essential actors are people fulfilling the following roles:
+Essential actors are people fulfilling the following roles:
 * Property Manager (usually per building)
 * Asset manager (usually per fund)
 * Accountant

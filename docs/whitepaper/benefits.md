@@ -18,28 +18,15 @@ Redcurry is smarter than cash and protects you from the effects of inflation. Th
 
 In its simplest use case, Redcurry is a practical store of value. Instead of leaving Euro money in the bank account and watching it lose value, you can hold Redcurry and benefit from its intrinsic inflation protection. However, there are many more use cases that utilize the vast potential of Redcurry and Currynomics. 
 
-## Real Estate industry
+## Rent Deposit to Deposits, Withholds and Prepayments
 
 ### Rental deposits
 While the real estate industry deals with assets protected from inflation, it still uses cash in an old-fashioned way. Think of rent deposits - money sitting idle for years, and custody of it somewhat unclear. With Redcurry, rent deposits become valuable, as they increase in value, and external custody is simple and cheap. The same is true for prepayments and withholds during construction processes - instead of losing value, the blocked funds increase in value, and insolvency risks can be mitigated. 
 
-### Transaction currency
-As the value of Redcurry is derived solely from the operations of Redcurry Holding as a real estate investor, the Redcurry value indirectly reflects the real estate market situation. Even though the holder of a Redcurry Token is not invested directly in the real estate market, they still enjoy the appreciation of the value of the Redcurry Token - driven by the functioning of the real estate market.
-
-As a result of this, Redcurry becomes an interesting tool for professional and/or institutional real estate investors. Typically, a real estate investor will consider in their strategy the right moments when to sell a certain property from a portfolio, and when to buy one from the market. However, as the transactions in the real estate market typically take months, and the selection of the right investment might result in a waiting period of a year or more, each real estate investor has a special problem with holding cash. When selling a property, a real estate investor immediately moves from a high positive return on equity to a – most likely – negative one (through negative interest on their cash position in the bank), which decides to sell a property a much more difficult one. 
-
-And waiting for a new opportunity might mean a long period with a negative return.
-An alternative solution for such investors would be to use Redcurry as a transaction currency. 
-
-Redcurry is beneficial for both sides of the real estate transaction. The seller has the benefit of receiving Redcurry at a purchase price and will avoid immediate negative interest and has the prospect of appreciation of the value of Redcurry. On the buyer's side, holding Redcurry enables investors to take their time in choosing the right property to invest in, as they are not under pressure from negative interest rates. For both parties, Redcurry facilitates a real-time peer-to-peer transaction without the necessity to involve escrow bank accounts or other complicated and time-consuming procedures, adding additional simplification to the real estate investment activities.
-
-In cases where Redcurry Holding will not invest directly in the acquisition of a property, but rather acquire a stake in a real estate-owning company or a real estate fund, the valuation of the real estate will happen on the level of the company or the fund. Therefore, Redcurry Holding will only need to evaluate the value of its shareholding versus the acquisition cost, and this again ensures the NAV of Redcurry exactly reflects the value of the investments held by Redcurry Holding.
-
-## Liquidity management
-While transactions will still be conducted in fiat currency, Redcurry can be used perfectly well for bridging periods of holding liquidity. In real estate transactions, when selling real estate, don’t exit the industry - with Redcurry, you still benefit from the performance of the real estate sector. Or think of Crowdfunding - when exiting an investment, why not stay in Redcurry until you find your next investment target? On larger scales, liquidity management of any cash-intensive business should reasonably include Redcurry for preventing losses from inflation.
+### Savings Solutions
+Redcurry is a store of value so it is only logical to implement savings solutions based on the Redcurry token. While bank interests usually are below inflation, Redcurry aims to be a store of value which outperforms inflation. Redcurry is therefore the perfect tool to provide new savings solutions without the necessity to invest in securities or long-term financial instruments. Being a blockchain-based solution, Redcurry will enable even unbanked people to create real savings.
 
 ## Payment solutions
-
 Redcurry is the first digital means of payment where its value of it is objective (because it is based on independently valued real estate assets) and not volatile. While until now most purchase transactions with cryptocurrencies ultimately contained an exchange transaction (sellers accept crypto payment but immediately sell against cash), Redcurry allows for real digital payment transactions, where no exchange to fiat is needed. Purchases thus can finally become fully digital, real-time, and cost-efficient.
 
 ## Crypto uses cases
