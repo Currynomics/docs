@@ -29,10 +29,19 @@ Redcurry is a store of value so it is only logical to implement savings solution
 ## Payment solutions
 Redcurry is the first digital means of payment where its value of it is objective (because it is based on independently valued real estate assets) and not volatile. While until now most purchase transactions with cryptocurrencies ultimately contained an exchange transaction (sellers accept crypto payment but immediately sell against cash), Redcurry allows for real digital payment transactions, where no exchange to fiat is needed. Purchases thus can finally become fully digital, real-time, and cost-efficient.
 
-## Crypto uses cases
+## For Blockchains and DeFi services.
+Redcurry helps to solve a fundamental problem for blockchain ecosystems and DeFi more broadly -a lack of self-sustaining business and revenue models. The majority of DeFi services survive on speculators and financial players putting money into the system more than people living from cryptocurrencies take it out. Redcurry relieves this pain point by bringing real-world revenue into the blockchain in a self-sustaining way - the net rental income of the commercial real estate portfolio is reinvested into the blockchain ecosystem. With no money leaking out, it becomes self-sustaining even without the participation of speculators and financial players. That being said, as they are needed in any financial system, Redcurry enables use cases for them as well.
+
+As the core value of Redcurry is to offer a stable, inflation-resistant asset to the world, we help to bring much-needed price stability to your blockchain, a balance to the volatile cryptocurrency and stablecoin market.
+Redcurry brings real-world revenue into the blockchain ecosystem in a self-sustaining manner - the net rental income of the commercial real estate portfolio is reinvested. With no money leaking from this system, it becomes self-sustaining. 
+As an infrastructure project, Redcurry enables the development of novel DeFi use cases increasing the real-economy revenue, liquidity, and transactions on your blockchain. This brings new developers, users, investors, business developers, product designers, and the like to your ecosystem.
+
+Following are some concrete examples of Redcurry use cases in DeFi services:
+
 * Buy and hold (Real Estate investment and/or parking your capital into the stable asset); 
 * Proptech use cases, Deposits, insurance, inflation protection
-* Real asset collateral in DeFi protocols
+* Real asset collateral in DeFi protocols.
+
 
 <a href="/#/whitepaper/compare">
     <button class="nextButton" >
