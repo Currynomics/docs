@@ -41,7 +41,7 @@ The product has to successfully carry out the following requirements:
     <button class="nextButton" >
         <div class="copy">
             <p class="title">Next</p>
-            <p class="value">Asset Management</p>
+            <p class="value">Data Management</p>
         </div>
         <div class="icon"><i class="material-icons">arrow_forward</i></div>
     </button>

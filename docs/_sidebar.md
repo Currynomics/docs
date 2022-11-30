@@ -34,8 +34,8 @@
 ** [<span style="text-decoration: underline">Website</span>](https://redcurry.co)
 ** [<span style="text-decoration: underline">Partnerships</span>](https://redcurry.co/partners)
 ** [<span style="text-decoration: underline">Linktree</span>](https://linktr.ee/redcurry)
-** [<span style="text-decoration: underline">Discord</span>](https://discord.gg/z8kgCvxtea)
-** [<span style="text-decoration: underline">Telegram</span>](https://t.me/RedcurryOfficial)
+** [<span style="text-decoration: underline">JOIN US ON DISCORD</span>](https://discord.gg/z8kgCvxtea)
+** [<span style="text-decoration: underline">FOLLOW OUR TELEGRAM</span>](https://t.me/RedcurryOfficial)
 
 
 

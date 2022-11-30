@@ -1,6 +1,5 @@
 
 ## Benefits & Use Cases
-
 Redcurry is smarter than cash and protects you from the effects of inflation. This is a summary of the multiple benefits which come with Redcurry. Let’s have a closer look: 
 
 * Real value: The Redcurry token represents indeed a real value. The Redcurry system ensures that every Euro entering the system ultimately is invested in quality commercial real estate. The value of the Redcurry token is derived from alink between the token and a real physical assets.
@@ -27,9 +26,13 @@ While the real estate industry deals with assets protected from inflation, it st
 Redcurry is a store of value so it is only logical to implement savings solutions based on the Redcurry token. While bank interests usually are below inflation, Redcurry aims to be a store of value which outperforms inflation. Redcurry is therefore the perfect tool to provide new savings solutions without the necessity to invest in securities or long-term financial instruments. Being a blockchain-based solution, Redcurry will enable even unbanked people to create real savings.
 
 ## Payment solutions
-Redcurry is the first digital means of payment where its value of it is objective (because it is based on independently valued real estate assets) and not volatile. While until now most purchase transactions with cryptocurrencies ultimately contained an exchange transaction (sellers accept crypto payment but immediately sell against cash), Redcurry allows for real digital payment transactions, where no exchange to fiat is needed. Purchases thus can finally become fully digital, real-time, and cost-efficient.
+Despite their popularity, due to their volatility crypto-currencies are rarely used for direct payments of goods and services in the real economy. Typically, a payment in crypto-currencies includes the conversion of crypto to fiat.
 
-## For Blockchains and DeFi services.
+Redcurry has an objective intrinsic value (based on independently valued real estate assets) referenced to fiat and has little to no volatility. Therefore, it can safely be used for payments without fiat conversion.
+
+While until now most purchase transactions with cryptocurrencies ultimately contained an exchange transaction (sellers accept crypto payment but immediately sell against cash), Redcurry allows for real digital payment transactions, where no exchange to fiat is needed. Purchases thus can finally become fully digital, real-time, and cost-efficient.
+
+## Blockchains and DeFi services.
 Redcurry helps to solve a fundamental problem for blockchain ecosystems and DeFi more broadly -a lack of self-sustaining business and revenue models. The majority of DeFi services survive on speculators and financial players putting money into the system more than people living from cryptocurrencies take it out. Redcurry relieves this pain point by bringing real-world revenue into the blockchain in a self-sustaining way - the net rental income of the commercial real estate portfolio is reinvested into the blockchain ecosystem. With no money leaking out, it becomes self-sustaining even without the participation of speculators and financial players. That being said, as they are needed in any financial system, Redcurry enables use cases for them as well.
 
 As the core value of Redcurry is to offer a stable, inflation-resistant asset to the world, we help to bring much-needed price stability to your blockchain, a balance to the volatile cryptocurrency and stablecoin market.
