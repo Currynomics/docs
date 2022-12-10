@@ -4,7 +4,7 @@
 ** [Principles](/whitepaper/manifesto.md)
 ** [How it works](/whitepaper/how.md)
 ** [Benefits & Use Cases](/whitepaper/benefits.md)
-** [Redcurry vs Other Instruments](/whitepaper/compare.md)
+** [Redcurry Compared](/whitepaper/compare.md)
 
 * TECHNOLOGY
 ** [Overview](/asset/technology/overview.md)
