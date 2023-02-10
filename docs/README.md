@@ -1,2 +1,3 @@
 # Deployment
-Run firebase deploy command.
+Run firebase deploy command. 
+    firebase deploy
