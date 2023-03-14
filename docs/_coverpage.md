@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 <!-- logo -->
-![logo](/media/logo/logo_v2_funky.png)
+![logo](/media/logo/logo.png)
 
 <p style="font-size: 24px">A truly sovereign digital currency backed by commercial real estate.</p>
 
