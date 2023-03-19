@@ -23,7 +23,7 @@ The product has to successfully carry out the following requirements:
 * Allow secure and transparent reporting of Redcurry token reserve assets (making up the NAV) on-chain. The assets making up the NAV can be the following:
     * Cash
         * Cash on accounts
-        * RedCurry Holding or subsidiary company receivables and liabilities
+        * Redcurry Holding or subsidiary company receivables and liabilities
     * Non-cash
         * Real estate portfolio
         * Fund shares or equity

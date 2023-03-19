@@ -1,7 +1,7 @@
 # Real Estate Valuation
 
 ## Valuation Principles
-The RedCurry valuation methodology is based on the acquisition value of each property. Each property will be recorded at full acquisition cost (including transaction costs) and this value will not be subject to annual depreciation, as typically required under local GAAP rules. We call this value the Original Acquisition Value (OAV).
+The Redcurry valuation methodology is based on the acquisition value of each property. Each property will be recorded at full acquisition cost (including transaction costs) and this value will not be subject to annual depreciation, as typically required under local GAAP rules. We call this value the Original Acquisition Value (OAV).
 
 Once per year, for each property a market valuation will be performed: typically this will be an external Market Price valuation based on standard valuation rules (RICS), occasionally supplemented by one internal valuation based on replacement Cost Approach. The acquisition values of the properties will then be compared with the average of the valuations; if the valuation of a certain property is equal to or higher than the acquisition value, then nothing happens, and the acquisition value remains unchanged. However, if the valuation is below the acquisition value, then the acquisition value will be corrected downwards by such difference. This difference we call the Original Acquisition Value Impairment (OAVI). The rule is then that if the market value is below OAV then OAVI is set so that OAV - OAVI equals to the market value.
 

@@ -21,6 +21,7 @@
 
 * ASSET MANAGEMENT
 ** [Treasury Management](/asset/treasury/management.md)
+** [Investment Strategy](/asset/treasury/strategy.md)
 ** [Real Estate Valuation](/asset/treasury/valuation.md)
 ** [Real Estate Management](/asset/treasury/re.md)
 
@@ -33,9 +34,9 @@
 ** [<span style="text-decoration: underline">FAQ</span>](https://redcurry.co/faq)
 ** [<span style="text-decoration: underline">Website</span>](https://redcurry.co)
 ** [<span style="text-decoration: underline">Partnerships</span>](https://redcurry.co/partners)
-** [<span style="text-decoration: underline">Linktree</span>](https://linktr.ee/redcurry)
-** [<span style="text-decoration: underline">JOIN US ON DISCORD</span>](https://discord.gg/z8kgCvxtea)
-** [<span style="text-decoration: underline">FOLLOW OUR TELEGRAM</span>](https://t.me/RedcurryOfficial)
-
-
-
+---
+<div style="display:flex; margin-top: 2em;justify-content: space-evenly; opacity:0.8">
+  <a href="https://discord.gg/z8kgCvxtea" target="_blank"><img style="height:35px;" src="./media/icon/discord_b.png" alt="Discord"></a>
+  <a href="https://t.me/RedcurryOfficial" target="_blank"><img style="height:35px;"src="./media/icon/telegram_b.png" alt="Telegram"></a>
+    <a href="https://linktr.ee/redcurry" target="_blank"><img style="height:35px;"src="./media/icon/linktree_b.png" alt="Linktree"></a>
+</div>

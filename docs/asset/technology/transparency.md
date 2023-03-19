@@ -10,7 +10,7 @@ The Holding shall manage the portfolio and establish subsidiaries (e.g. SPV-s) t
 Due to the long-term nature of the assets in the treasury, each Curry must be issued as not redeemable. Like many stablecoins, a Curry does not entitle its holder to demand redemption of a Curry against fiat currency. However, the treasury of each Curry is entitled to purchase back Curry tokens at the current NAV and destroy them. This principle enables the Curry volume in circulation to grow (issuing new Curries and the purchase of additional assets) or shrink (buying back burning Curries financed by the selling of assets) depending on the development of demand. Beyond that, the Currynomics principles require that each Curry-issuing holding must ultimately (i.e. before being liquidated) purchase and destroy all Curries that it has ever issued and that are still in circulation.
 
 # Information Policy
-> TODO: add information policy
+[See Redcurry information policy here](https://redcurry.co/privacy/) 
 
 
 <a href="/#/asset/legal/overview">

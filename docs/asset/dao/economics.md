@@ -18,7 +18,7 @@ Initially, the fee allocation directed to the main treasury will automatically b
 ### Operational Treasury
 The DAO operational budget treasury is a core contributor-controlled multisig used for paying contributors, tooling, marketing, and any other expenses that Currynomics DAO will require to keep the protocol healthy, relevant, and operational.
 
-### RedCurry Liquidity Pools Treasury 
+### Redcurry Liquidity Pools Treasury 
 Redcurry tokens possess their own treasury containing the underlying assets backing the pool. The DAO has no direct control over this treasury and it’s fully managed by code.
 
 

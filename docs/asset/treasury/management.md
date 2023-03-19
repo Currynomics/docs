@@ -10,11 +10,11 @@ The treasury will mint and sell new tokens whenever the cash position in the tre
 The treasury will buy and burn tokens using its cash holding position whenever an oversupply of Redcurry tokens occurs. In case of a long-term oversupply of Redcurry tokens (measured in weeks or months), Redcurry Holding will decide to sell a property or investment to refill the treasury cash position and then potentially buy and burn even more tokens. 
 Both, minting and selling of new tokens or buying and burning of tokens, can always occur only at the current NAV per token price level. Therefore, at no point of time the sale or purchase of tokens by the treasury will influence the NAV and therefore no dilution of Redcurry token holders can occur. 
 
-<a href="/#/asset/treasury/valuation">
+<a href="/#/asset/treasury/strategy">
     <button class="nextButton" >
         <div class="copy">
             <p class="title">Next</p>
-            <p class="value">Real Estate Valuation</p>
+            <p class="value">Investment Strategy</p>
         </div>
         <div class="icon"><i class="material-icons">arrow_forward</i></div>
     </button>
