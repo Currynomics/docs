@@ -1,37 +1,29 @@
+# Introduction
+Distributed ledger technology (DLT) like blockchain has gained significant popularity due to its decentralisation, security, and transparency features. Despite its potential, challenges persist in linking blockchain transactions to real-world objects and activities. Cryptographic tokens have emerged as a solution, representing assets or utilities within networks and enabling competition against centralised web2 platforms.
+
+Tokens offer a variety of benefits, including innovative financing channels, functioning as internal currencies, and serving as the foundation for decentralised autonomous organisations (DAOs) such as Currynomics DAO. However, the broad range of token functionalities necessitates careful tokenomic design to avoid negative consequences, such as those witnessed in the collapse of TerraUSD and others in 2022.
+
+Currynomics DAO aims to address these challenges by establishing a logical and professional basis for developing a resilient and sustainable token economy. This approach will ensure effective governance of Redcurry and all subsequent curries, ultimately realising the full potential of DLT technology.
+
 # About
-The Currynomics DAO (Decentralised Autonomous Organisation) is meant to catalyse and coordinate the open-source infrastructure and ecosystem of partners, builders, and users that simplifies, secures, and makes truly stable digital currencies and decentralised finance (DeFi) in general accessible for the masses.
+Currynomics DAO (Decentralised Autonomous Organisation) is an innovative decentralised organisation dedicated to creating truly stable digital currencies and providing a secure store of wealth for open finance. Driven by the principles of liquidity, safety, sustainability, and governance, Currynomics DAO aims to simplify, secure, and make decentralised finance accessible for everyone.
  
+The DAO has two main roles and its purpose is to give a voice to our community and influence the development and growth of the whole platform through the proposal management system and voting system.
+
 To minimise the risk of human factors and preserve the DeFi commons’ fundamental ethos of permissionless access, the Currynomics ecosystem cannot be governed by a centralised entity.
- 
-Governance - separation of concerns. Due to the size of the Currynomics ecosystem which consists of the Currynomics DAO, Currynomics Foundation, individual Redcurry Holding, Currynomics Labs (operational), and other actors in the system, a clear separation of control and accountability must be established.
- 
-Our DAO has two main roles and its purpose is to give a voice to our community and influence the development and growth of the whole platform through the proposal management system and voting system.
- 
-The following are examples of what can be influenced by the DAO token holders[1]. 
 
-DAO governance token holder can: 
-* Have a say in the Currynomics Foundation management board.
-* Have a say in DAO Treasury decisions.
-* Have a say in governance and DAO processes.
-* Decide on important community goals and targets.
-* Measure sentiment on potential Executive Vote proposals.
-* Ratify governance proposals originating from the community signals.
-* Adjust global system parameters in a DAO protocol
-* Adjust treasury-specific parameters in a DAO protocol
-* Replace modular smart contracts in a DAO protocol
-* Make certain upgrades to the system.
-* Have a say in individual Curry tokenomics.
-* Decide on the level of on-chain reporting:
-    * For example, what data besides that which is needed for NAV calculation is to be published on a blockchain.
+In order to structure the organisation in a way that avoids strong centralization and preserves the permissionless ethos of DeFi while minimising the risk of human factors, the Currynomics ecosystem consists of various entities, including the Currynomics DAO, Currynomics Foundation, individual Redcurry Holding, and Currynomics Labs. To ensure clarity and accountability, a clear separation of control is established among these entities.
 
-*[1] Subject to change according to the DAO design process.*
+![image](../../media/img/how.png)
+*Stakeholder map of Currynomics ecosystem.*
 
+The first currency product of Currynomics, Redcurry, embodies the vision, showcasing the potential for truly stable digital currencies in the world of open finance.
 
-<a href="/#/asset/dao/economics">
+<a href="/#/asset/dao/utility">
     <button class="nextButton" >
         <div class="copy">
             <p class="title">Next</p>
-            <p class="value">DAO Economics</p>
+            <p class="value">Utility</p>
         </div>
         <div class="icon"><i class="material-icons">arrow_forward</i></div>
     </button>

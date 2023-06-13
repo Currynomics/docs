@@ -12,6 +12,8 @@ The Holding can only invest in commercial real estate; the specifics of the real
 <!-- *The Holding is owned by a non-profit Foundation and the sole purpose of the Foundation is to maintain the Redcurry system. The Foundation has no beneficiaries, and the Foundation is not permitted to receive any profit distribution from the Holding, so no money leaves the Redcurry system (see Redcurry Foundation[2] ). At any time, the Holding can (but does not have to) destroy/burn REDC when there is an oversupply of tokens, or the Holding cannot invest in suitable real estate. Ultimately, the Holding can destroy/burn all issued Redcurry tokens, and as this only can occur at the respective NAV, the assets of the Holding decrease to zero with the last token being destroyed/burned.* -->
 
 ![image](../../media/img/how.png)
+**Stakeholder map of Currynomics ecosystem.**
+
 
 ## Currynomics Foundation
 The Currynomics Foundation is a Private Foundation under the Law of the Republic of Austria. Austrian Private Foundations are regulated by the so-called “Privatstiftungsgesetz” (Law on Private Foundations), which is legally in force since the 1990s. The application of this law enables the following arrangements:
