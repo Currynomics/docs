@@ -22,7 +22,7 @@ Below are the details of the DAO token's supply, pricing, and distribution:
 * Initial public market capitalization: $20,000,000.00
 * Seed sale price: $0.013 (40.91% discount)
 * Private sale price: $0.018 (18.18% discount)
-* Initial public pre-sale price: $0.222 (no discount)
+* Initial public pre-sale price: $0.022 (no discount)
 
 ## Token Distribution
 Token distribution methods are crucial for governance tokens, determining the number of users who can exercise control over the token economy. There are several approaches:
