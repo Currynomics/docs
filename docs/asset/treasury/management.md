@@ -1,5 +1,5 @@
 # Treasury management
-The treasury acts as a buffer between Redcurry sales (minting) and investment of the minting proceeds into real estate, and is also used in case buybacks of Redcurry tokens are intended. All cash in the treasury is cash owned by the Redcurry Holding and thus by default part of the NAV.
+The treasury acts as a buffer between Redcurry sales (issuing) and investment of the minting proceeds into real estate, and is also used in case buybacks of Redcurry tokens are intended. All cash in the treasury is cash owned by the Redcurry Holding and thus by default part of the NAV.
 
 Typically, the Redcurry Holding will sell (mint) new tokens, when it has opportunities to invest into new high-quality commercial real estate. It will however not mint tokens only because there is demand for new tokens. Rather, Redcurry Holding will aim at keeping the treasury in balance, which means that the cash position of the treasury does not exceed certain thresholds. This is making the Redcurry token non-inflationary.
 

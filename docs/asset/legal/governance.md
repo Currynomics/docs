@@ -5,7 +5,7 @@ As Redcurry is a non-profit organisation, thriftiness is of high value. Thriftin
 
 Egomania and self-adulation shall also have no space within the organisation. Everyone shall meet everyone with respect and with the aim of collaborative partnership. It counts what the team achieves, not what the individual achieves.
 
-Redcurry governance is supplemented by the [Currynomics DAO](/asset/dao/overview.md)
+Redcurry governance is supplemented by the [Currynomics](/asset/dao/overview.md)
 
 <a href="/#/asset/legal/disclaimers">
     <button class="nextButton" >

@@ -16,7 +16,7 @@ The following diagram represent the high level architecture or Redcurry’s asse
 ![image](../../media/img/redc_arch.png)
 *Diagram 1: decentralized and distributed asset management architecture.*
 
-All smart contracts will be developed on an EVM compatible blockchain. Redcurry and DAO governance tokens will be implemented using the ERC20 standard the asset reporting smart contracts using the ERC720 standard.
+All smart contracts will be developed on an EVM compatible blockchain. Redcurry and Currynomics governance tokens will be implemented using the ERC20 standard the asset reporting smart contracts using the ERC720 standard.
 
 The product has to successfully carry out the following requirements:
 * Meet the requirements defined in the Currynomics cybersecurity principles.

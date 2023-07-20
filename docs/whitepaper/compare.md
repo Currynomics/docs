@@ -35,7 +35,7 @@ Thus it is not clear how long this will last and there is a clear need to keep w
 
 The stablecoin design space can be split into three: 
 1) centralized stablecoins (e.g. USDT)
-2) DAO-governed real-world-asset (RWA) backed tokens (e.g. Redcurry)
+2) Currynomics governed real-world-asset (RWA) backed tokens (e.g. Redcurry)
 3) governance-minimized crypto-backed stablecoins
 
 ![image](../../media/img/stablecoins.png)

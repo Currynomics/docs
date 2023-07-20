@@ -1,10 +1,10 @@
 # Voting mechanisms
-Among the five main types of voting mechanisms, **Currynomics DAO will utilise time-weighted voting**. The selection process began by eliminating 1-token-1-vote as the least innovative and practical option. Reputation-weighted voting was deemed too complex due to the need for separate reputation evaluation mechanisms. Quadratic voting, which has yet to demonstrate a clear advantage for smaller stakeholders (Dimitri, 2022), requires further research to determine whether its utility justifies the complexity involved in implementing and explaining it to the community. 
+Among the five main types of voting mechanisms, **Currynomics will utilise time-weighted voting**. The selection process began by eliminating 1-token-1-vote as the least innovative and practical option. Reputation-weighted voting was deemed too complex due to the need for separate reputation evaluation mechanisms. Quadratic voting, which has yet to demonstrate a clear advantage for smaller stakeholders (Dimitri, 2022), requires further research to determine whether its utility justifies the complexity involved in implementing and explaining it to the community. 
 
-Within the time-weighted voting category, **Currynomics DAO will adopt conviction voting**, as simplicity is a crucial aspect for the ecosystem. It is important to note that bond voting is considered inflexible, and the ve-token model necessitates the creation of special-purpose ve-tokens, which would add unnecessary complexity to the governance processes.
+Within the time-weighted voting category, **Currynomics will adopt conviction voting**, as simplicity is a crucial aspect for the ecosystem. It is important to note that bond voting is considered inflexible, and the ve-token model necessitates the creation of special-purpose ve-tokens, which would add unnecessary complexity to the governance processes.
 
 ## Conviction voting example
-Let's consider two DAO members: Alice, who holds 100 tokens, and Bob, who holds 10,000 tokens. There are three proposals on the table: Proposal A, Proposal B, and Proposal C.
+Let's consider two Currynomics members: Alice, who holds 100 tokens, and Bob, who holds 10,000 tokens. There are three proposals on the table: Proposal A, Proposal B, and Proposal C.
 
 Alice stakes her 100 tokens on Proposal A for two weeks.
 Bob stakes his 10,000 tokens on Proposal B for one day.

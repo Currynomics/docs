@@ -85,7 +85,7 @@ Any transaction with the smart contracts, be that initial publishing or later up
 * Gateway to third party oracles - help with Supply and NAV validation.
 
 ## Transaction fee
-From all Redcurry transactions, there will be a transaction fee of **0.02%** which goes into the DAO treasury and will be distributed to pools following current DAO tokenomics.
+From all Redcurry transactions, there will be a transaction fee of **0.02%** which goes into the Currynomics treasury and will be distributed to pools following current Currynomics tokenomics.
 
 <a href="/#/asset/technology/oracle">
     <button class="nextButton" >

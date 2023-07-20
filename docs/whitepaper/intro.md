@@ -16,7 +16,7 @@ Holding Redcurry in itself has its merits - it’s smarter than cash and protect
 
 Redcurry is intended to be a general means of payment and store-of-value for everyone, so we made the project fully transparent, highly decentralized, and public domain. All relevant information relating to the assets will be permanently available online for everyone, not just the Redcurry token holders. And we will work with the best industry partners to have real estate values and balance sheets fully audited. 
 
-Furthemore, Redcurry is open-source, fully transparent, publicly auditable, permissionless, and on-chain. It is currently being implemented on EVM compatible blockchains. Redcurry is governed by the Currinomics Foundation, but will gradually evolve towards a DAO. [Read more about the product and technology here](/asset/technology/overview.md).
+Furthemore, Redcurry is open-source, fully transparent, publicly auditable, permissionless, and on-chain. It is currently being implemented on EVM compatible blockchains. Redcurry is governed by the Currinomics Foundation, but will gradually evolve towards a decentralized organization. [Read more about the product and technology here](/asset/technology/overview.md).
 
 With Redcurry we are opening the first chapter of a truly inspiring book. Redcurry will not remain solitary, but will soon be accompanied by other Curries, based on different assets, with new use cases and stories attached to them. Stay tuned for more to come.  
 

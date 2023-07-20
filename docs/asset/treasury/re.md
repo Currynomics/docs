@@ -62,7 +62,7 @@ At the level of the Asset Managers, the incentivization shall focus even more on
     <button class="nextButton" >
         <div class="copy">
             <p class="title">Next</p>
-            <p class="value">Currynomics DAO</p>
+            <p class="value">Currynomics</p>
         </div>
         <div class="icon"><i class="material-icons">arrow_forward</i></div>
     </button>

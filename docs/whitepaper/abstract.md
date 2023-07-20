@@ -3,7 +3,7 @@ Redcurry is a decentralized blockchain ecosystem that ties its stablecoin's<sup>
 
 Redcurry differs from other stablecoins like USDT as its supply is not fixed, and it doesn't grant holders rights to the underlying property. Instead, it "truly commoditizes" real estate by reinvesting financial gains back into the system. Redcurry Holding uses funds from token purchases to buy real estate, generating recurring revenue that is redirected into purchasing more properties. No money exits the holding, ensuring the portfolio value solely backs the Redcurry token.
 
-The Redcurry ecosystem comprises core bodies, including Redcurry Holding, Currynomics Labs OÜ, and Currynomics DAO. Currynomics Labs OÜ provides development, marketing, and management services, while Currynomics DAO governs the token economy using DAO tokens in decision-making operations.
+The Redcurry ecosystem comprises core bodies, including Redcurry Holding, Currynomics Labs OÜ, and Currynomics. Currynomics Labs OÜ provides development, marketing, and management services, while Currynomics governs the token economy using the governance tokens in decision-making operations.
 
 ![image](../media/img/red_abstract.jpg)
 *Redcurry portfolio generation and cash movement cycle*

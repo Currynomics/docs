@@ -26,7 +26,7 @@
 ** [Real Estate Valuation](/asset/treasury/valuation.md)
 ** [Real Estate Management](/asset/treasury/re.md)
 
-* CURRYNOMICS DAO
+* CURRYNOMICS
 ** [Overview](/asset/dao/overview.md)
 ** [Utlity](/asset/dao/utility.md)
 ** [Governance](/asset/dao/governance.md)
