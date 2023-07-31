@@ -4,11 +4,11 @@ Governance in the blockchain context is crucial for decentralised systems to evo
 Token economies, like nation states, need time to refine their governance structures, but blockchain ecosystems have only existed for a decade, and many governance issues remain unresolved. Governance mechanisms are used by communities to update the system and agree on plans in unexpected situations. The core questions this chapter is focusing on is how to design token economy governance, which explores the extent of governance decentralisation, the use of on-chain and off-chain governance components, and mechanisms for voting for governance proposals.
 
 ## Governance areas 
-The broad governance areas of the DAO are as follows:
+The broad governance areas of the Currynomics are as follows:
 
-* Treasury management: Decisions related to the allocation and management of the DAO's treasury funds.
-* Governance and Process: Decisions regarding the DAO's governance structure, voting processes, community goals, and community sentiment towards proposals.
-* Protocol Upgrades: Decisions regarding the implementation of system upgrades, adjustments to global and treasury-specific parameters in the protocol, and replacement of modular smart contracts in the DAO protocol.
+* Treasury management: Decisions related to the allocation and management of the Currynomics's treasury funds.
+* Governance and Process: Decisions regarding the Currynomics's governance structure, voting processes, community goals, and community sentiment towards proposals.
+* Protocol Upgrades: Decisions regarding the implementation of system upgrades, adjustments to global and treasury-specific parameters in the protocol, and replacement of modular smart contracts in the Currynomics protocol.
 * Tokenomics: Decisions related to the design of tokenomics.
 
 <a href="/#/asset/dao/economics">
@@ -22,4 +22,4 @@ The broad governance areas of the DAO are as follows:
 </a>
 
 
-<!-- [Next: DAO Economics](/asset/dao/economics.md) -->
+<!-- [Next: Currynomics Economics](/asset/dao/economics.md) -->
