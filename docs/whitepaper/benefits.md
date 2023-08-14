@@ -1,5 +1,5 @@
 
-## Benefits & Use Cases
+# Benefits & Use Cases
 Redcurry is smarter than cash and protects you from the effects of inflation. This is a summary of the multiple benefits which come with Redcurry. Let’s have a closer look: 
 
 * Real value: The Redcurry token represents indeed a real value. The Redcurry system ensures that every Euro entering the system ultimately is invested in quality commercial real estate. The value of the Redcurry token is derived from alink between the token and a real physical assets.
@@ -46,11 +46,11 @@ Following are some concrete examples of Redcurry use cases in DeFi services:
 * Real asset collateral in DeFi protocols.
 
 
-<a href="/#/whitepaper/compare">
+<a href="/#/whitepaper/stakeholders">
     <button class="nextButton" >
         <div class="copy">
             <p class="title">Next</p>
-            <p class="value">Redcurry vs Other Instruments</p>
+            <p class="value">Key Stakeholders</p>
         </div>
         <div class="icon"><i class="material-icons">arrow_forward</i></div>
     </button>

@@ -1,7 +1,7 @@
 # Introduction
 Distributed ledger technology (DLT) like blockchain has gained significant popularity due to its decentralisation, security, and transparency features. Despite its potential, challenges persist in linking blockchain transactions to real-world objects and activities. Cryptographic tokens have emerged as a solution, representing assets or utilities within networks and enabling competition against centralised web2 platforms.
 
-Tokens offer a variety of benefits, including innovative financing channels, functioning as internal currencies, and serving as the foundation for decentralised organisations such as Currynomics. However, the broad range of token functionalities necessitates careful tokenomic design to avoid negative consequences, such as those witnessed in the collapse of TerraUSD and others in 2022.
+Tokens offer a variety of benefits, including innovative financing channels, functioning as internal currencies, and serving as the foundation for decentralised organisations such as Currynomics. However, the broad range of token functionalities necessitates careful tokenomics design to avoid negative consequences, such as those witnessed in the collapse of TerraUSD and others in 2022.
 
 Currynomics aims to address these challenges by establishing a logical and professional basis for developing a resilient and sustainable token economy. This approach will ensure effective governance of Redcurry and all subsequent curries, ultimately realising the full potential of DLT technology.
 

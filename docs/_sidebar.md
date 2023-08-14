@@ -5,7 +5,10 @@
 ** [Principles](/whitepaper/manifesto.md)
 ** [How it works](/whitepaper/how.md)
 ** [Benefits & Use Cases](/whitepaper/benefits.md)
+** [Stakeholders](/whitepaper/stakeholders.md)
 ** [Redcurry Compared](/whitepaper/compare.md)
+** [Monetization](/whitepaper/monetization.md)
+** [Team](/whitepaper/team.md)
 
 * TECHNOLOGY
 ** [Overview](/asset/technology/overview.md)
@@ -30,7 +33,8 @@
 ** [Overview](/asset/dao/overview.md)
 ** [Utlity](/asset/dao/utility.md)
 ** [Governance](/asset/dao/governance.md)
-** [Tokenomic](/asset/dao/economics.md)
+** [Token Utilities](/asset/dao/utilities.md)
+** [Tokenomics](/asset/dao/economics.md)
 ** [Voting Mechanisms](/asset/dao/voting.md)
 
 * LINKS

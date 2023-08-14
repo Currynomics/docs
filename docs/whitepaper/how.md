@@ -1,9 +1,10 @@
-# How it works
+# How It Works
 The fundamental concept behind Redcurry is to create a currency (or means of payment), which is appreciating in value but without making it a security. To disqualify as a security, the Redcurry token cannot provide Redcurry token holders with any rights to the assets backing its value. [Read more on the legalities of Redcurry](/asset/legal/overview.md). 
 
 But if the Redcurry token does not represent any rights, how is the value of it backed by real estate? The solution is enabled by the legal structure below and the [technology](/asset/technology/overview.md) described in the later chapters.
 
-![image](../media/img/how.png)
+## User Flow
+![image](../media/img/red_how.jpg)
 
 Redcurry Holding is the legal entity issuing the Redcurry token. With the sale of a Redcurry token, Redcurry Holding earns money, which it is obliged to invest solely into commercial real estate. This step ensures a permanent balance between Redcurry tokens issued and real estate value owned by Redcurry Holding. 
 
