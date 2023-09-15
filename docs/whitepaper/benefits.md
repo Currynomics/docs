@@ -111,7 +111,7 @@ How Redcurry Helps: Redcurry's transparent and stable nature makes it a viable o
 
 By offering a stable, real-time, and cost-efficient payment solution, Redcurry has the potential to revolutionize how transactions are conducted in the digital age. Its stability and intrinsic value offer a compelling alternative to both traditional fiat currencies and volatile cryptocurrencies, making it a win-win for all stakeholders involved.
 
-## Blockchains and DeFi services.
+### Blockchains and DeFi services.
 In a landscape where blockchain systems and DeFi services often struggle with sustainable business models, Redcurry emerges as a game-changer. Rather than relying on speculative influxes of capital, Redcurry introduces a self-sustaining revenue model by channeling real-world income from a commercial real estate portfolio back into the blockchain ecosystem. This not only offers a stable, inflation-resistant asset but also acts as a bulwark against the notorious volatility of the crypto market. As an infrastructure project, Redcurry serves as a launchpad for a myriad of innovative DeFi use-cases, from real estate investment to proptech solutions like deposits and insurance. This multi-faceted approach not only enhances liquidity and real-economy transactions but also attracts a diverse range of stakeholders—developers, investors, and designers alike. 
 
 In essence, Redcurry isn't just better money; it's a catalyst for a more stable, accessible, and value-driven financial ecosystem. 🚀💰
@@ -143,7 +143,7 @@ The users of a service like Redcurry are diverse, given its multifaceted approac
 
 By catering to such a wide array of users, Redcurry aims to build a comprehensive ecosystem that brings stability, transparency, and real-world utility to the blockchain space.
 
-## Additional Use Cases
+### Additional Use Cases
 1. Remittances:
 
     **Stakeholder**: Individuals who send money across borders, often to family members in their home countries.
