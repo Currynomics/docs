@@ -53,11 +53,11 @@ Making this work requires both real-world legal work to develop robust issuers a
 
 Read more about [Redcurry legal structure.](/asset/legal/overview.md)
 
-<a href="/#/asset/whitepaper/team">
+<a href="/#/whitepaper/monetization">
     <button class="nextButton" >
         <div class="copy">
             <p class="title">Next</p>
-            <p class="value">Team</p>
+            <p class="value">Monetization</p>
         </div>
         <div class="icon"><i class="material-icons">arrow_forward</i></div>
     </button>

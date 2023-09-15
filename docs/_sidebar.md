@@ -29,12 +29,11 @@
 ** [Real Estate Valuation](/asset/treasury/valuation.md)
 ** [Real Estate Management](/asset/treasury/re.md)
 
-* CURRYNOMICS
+* GOVERNANCE ORGANIZATION
 ** [Overview](/asset/dao/overview.md)
-** [Utlity](/asset/dao/utility.md)
+** [Gov Token Utlity](/asset/dao/utility.md)
 ** [Governance](/asset/dao/governance.md)
-** [Token Utilities](/asset/dao/utilities.md)
-** [Tokenomics](/asset/dao/economics.md)
+** [Gov Tokenomics](/asset/dao/economics.md)
 ** [Voting Mechanisms](/asset/dao/voting.md)
 
 * LINKS

@@ -3,19 +3,19 @@ To maintain protocol sustainability, harness growth, and reinvest in the platfor
 
 Here's a more in-depth look into our revenue channels:
 
-* Real Estate Management Fee (0.25% from AUM):
+* Real Estate Management Fee (**0.25% from AUM**):
 This fee ensures that the real estate assets under Redcurry's management are maintained, upgraded, and monitored to maintain their value.
 These fees cater to costs associated with property management, upkeep, and any necessary renovations.
 
-* Commission on RE Transactions (0.3% per transaction):
+* Commission on RE Transactions (**0.3% per transaction**):
 This commission is levied whenever a real estate transaction occurs within the Redcurry ecosystem, whether it's buying or selling of properties.
 These fees cover due diligence, brokerage, and other associated transaction costs.
 
-* Redcurry Token Transaction Fees (0.02% per transaction):
+* Redcurry Token Transaction Fees (**0.02% per transaction**):
 As Redcurry tokens are transferred, exchanged, or utilized within the ecosystem, this fee acts as a small revenue source.
 This revenue helps in maintaining the blockchain infrastructure, ensuring swift and secure token transactions.
 
-* Governance Token Transaction Fees (0.5% per transaction):
+* Governance Token Transaction Fees (**0.5% per transaction**):
 As governance tokens play a crucial role in protocol decision-making, their transactions carry a slightly higher fee.
 The revenue generated is primarily used to fund future protocol upgrades, enhancements, and community initiatives.
 
@@ -28,11 +28,11 @@ These rewards not only ensure ample liquidity within the platform but also encou
 
 By diversifying our revenue streams and embedding them within our core functionalities, Redcurry ensures both profitability and a perpetual commitment to protocol improvement and growth.
 
-<a href="/#/asset/technology/overview">
+<a href="/#/whitepaper/team">
     <button class="nextButton" >
         <div class="copy">
             <p class="title">Next</p>
-            <p class="value">Technology</p>
+            <p class="value">Team</p>
         </div>
         <div class="icon"><i class="material-icons">arrow_forward</i></div>
     </button>
