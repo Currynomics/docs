@@ -3,8 +3,8 @@
 ** [Abstract](/whitepaper/abstract.md)
 ** [Introduction](/whitepaper/intro.md)
 ** [Principles](/whitepaper/manifesto.md)
-** [How it works](/whitepaper/how.md)
-** [Benefits & Use Cases](/whitepaper/benefits.md)
+** [How It Works](/whitepaper/how.md)
+** [Unique Selling Points](/whitepaper/benefits.md)
 ** [Stakeholders](/whitepaper/stakeholders.md)
 ** [Redcurry Compared](/whitepaper/compare.md)
 ** [Monetization](/whitepaper/monetization.md)
@@ -36,8 +36,11 @@
 ** [Gov Tokenomics](/asset/dao/economics.md)
 ** [Voting Mechanisms](/asset/dao/voting.md)
 
+* MORE
+** [<span style="text-decoration: underline">Designing a Token Economy.</span>](https://www.researchgate.net/publication/371314053_Designing_a_Token_Economy_Incentives_Governance_and_Tokenomics)
+
 * LINKS
-** [<span style="text-decoration: underline">Manifesto</span>](https://redcurry.co/manifesto)
+** [<span style="text-decoration: underline">Linktree</span>](https://linktr.ee/redcurry)
 ** [<span style="text-decoration: underline">FAQ</span>](https://redcurry.co/faq)
 ** [<span style="text-decoration: underline">Website</span>](https://redcurry.co)
 ** [<span style="text-decoration: underline">Partnerships</span>](https://redcurry.co/partners)

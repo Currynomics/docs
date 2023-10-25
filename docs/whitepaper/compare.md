@@ -14,7 +14,7 @@ Let’s start with gold. In the past, many currencies were linked to gold and re
 
 In the case of bonds, the volatility issue is also relevant: a long-term investment in bonds means that a change in the interest rate environment (like it happened in 2022) causes the price of bonds to fall substantially. A bond for example is appropriately priced at 130, if it bears a 4% coupon for 10 years, and if the market interest rate is 2% and the risk margin for the bond is 1%. At 130, you have a 4% coupon but a 3% return on the investment, as the bond is repaid at 100, not 130. If in such an environment the market interest rate raises from 2% to 3%, the price for the bond will immediately fall from 130 to 100. Therefore, also a bond can lead to a substantial loss of value, if not held until maturity, even if it is a top-rated government bond.
 
-## Redcurry vs. Stablecoin
+## Redcurry vs. Stablecoin*
 Considering the inherent stability of Redcurry and the fact that it is blockchain-based, it makes sense to look at the similarities and differences between Redcurry and a stablecoin. Redcurry of course is not meant to be stable versus a reference currency as it is meant to appreciate to offset the impact of inflation. The NAV as the reference for the Redcurry value, based on real physical, cash-flow generating assets, makes Redcurry therefore superior to common stablecoins. However, Redcurry is non-redeemable, which suggests that holding a large volume of Redcurry tokens in relation to the total amount of tokens in circulation bears the risk that one can not liquidate the token holding quickly, as long as large liquidity providers have not evolved. But Redcurry is meant to be held not for intraday trading, but for holding periods of several months to several years.
 
 For a mid-to long-term holding period, Redcurry offers various advantages over stablecoins:
@@ -40,6 +40,8 @@ The stablecoin design space can be split into three:
 
 ![image](../../media/img/stablecoins.png)
 [Source](https://vitalik.eth.limo/general/2022/12/05/excited.html)
+
+*1 - Stablecoin is a store of value token with the main function of facilitating payments but with an important property of reducing token price volatility (FINMA, 2019). By binding its price to chosen underlying assets, typically fiat currencies, stablecoins maintain a stable value with regard to the latter (Khamisa, 2021). For example, a single USD Coin can be purchased at a price equal to the underlying asset, one US dollar. Additional examples of such assets can be other cryptocurrencies, securities, or commodities.*
 
 ## Redcurry vs Bitcoin
 Bitcoin has failed to serve as a currency, there are too few commercial transactions. It has served as a speculative investment and as a tool for anonymity. This has caused BTC as a price for goods to be extremely volatile preventing it from being universally accepted. While inflation is a sometimes more, sometimes less gentle slope downwards, volatility is a roller-coaster ride with an unclear ending – both are undesirable.

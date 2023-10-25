@@ -1,15 +1,18 @@
 # Abstract
-Redcurry is a decentralized blockchain ecosystem that ties its stablecoin's<sup>[1]</sup> value to a commercial real estate portfolio's Net Asset Value (NAV). It addresses the common problem among stablecoins of trust in the token's underlying assets by self-sustainably maintaining the currency peg. Redcurry, issued by [Redcurry Holding](/asset/legal/overview?id=redcurry-holding) and owned by the [Currinomics Foundation](/asset/legal/overview?id=currynomics-foundation), acts as a bridge between traditional and crypto economies, continuously increasing in value through reinvested proceeds from real estate revenues.
+Meet Redcurry: Your steadfast companion in the ever-shifting world of finance. It’s not just another digital currency; it’s a sanctuary of stability, a guardian of your wealth, always at your fingertips, ensuring that your investments are not only protected but also nurtured to flourish.
 
-Redcurry differs from other stablecoins like USDT as its supply is not fixed, and it doesn't grant holders rights to the underlying property. Instead, it "truly commoditizes" real estate by reinvesting financial gains back into the system. Redcurry Holding uses funds from token purchases to buy real estate, generating recurring revenue that is redirected into purchasing more properties. No money exits the holding, ensuring the portfolio value solely backs the Redcurry token.
+Imagine having a kind of money that combines the simplicity and independence of digital currencies like Bitcoin with the solid reliability of commercial real estate. Redcurry is precisely that - a new kind of asset that’s designed to be as easy to use as Bitcoin, yet firmly anchored in the real-world value of diverse commercial properties.
 
-The Redcurry ecosystem comprises core bodies, including Redcurry Holding, Currynomics Labs OÜ, and Currynomics. Currynomics Labs OÜ provides development, marketing, and management services, while Currynomics governs the token economy using the governance tokens in decision-making operations.
+In a world where the value of money often feels like it’s on a rollercoaster ride due to inflation and market volatility, Redcurry offers a serene and secure journey. It’s like having a superpower that shields your wealth from the unpredictability of markets and the erosion of inflation. It’s crafted not just as a currency, but as a steadfast guardian of your wealth, ensuring that your money retains its purchasing power and is always ready whenever you need it.
+
+Redcurry is here to empower you, whether you’re a seasoned investor or just someone looking for a safe and sensible place to store your wealth. It’s not merely about having money in a digital form; it’s about having money that’s nurtured by the enduring value of commercial real estate, ensuring that it’s not just maintained, but allowed to grow.
+
+In the vast universe of investment options, Redcurry shines brightly with a unique charm. It’s not just another currency lost in the volatility of digital markets, nor is it a traditional fiat currency that loses its warmth with inflation or a complex security hard to crasp and predict. Redcurry is a harmonious blend of accessibility and stability, a currency that’s backed by the tangible prosperity of commercial real estate, offering a warm embrace of security and growth to storing your wealth.
+
+So, welcome to the world of Redcurry, where your wealth is not just stored, but cherished and cultivated, ensuring that it’s always there for you, stable and flourishing.
 
 ![image](../media/img/red_abstract.jpg)
 *Redcurry portfolio generation and cash movement cycle*
-
-
-*1 - Stablecoin is a store of value token with the main function of facilitating payments but with an important property of reducing token price volatility (FINMA, 2019). By binding its price to chosen underlying assets, typically fiat currencies, stablecoins maintain a stable value with regard to the latter (Khamisa, 2021). For example, a single USD Coin can be purchased at a price equal to the underlying asset, one US dollar. Additional examples of such assets can be other cryptocurrencies, securities, or commodities.*
 
 <a href="/#/whitepaper/intro">
     <button class="nextButton" >
